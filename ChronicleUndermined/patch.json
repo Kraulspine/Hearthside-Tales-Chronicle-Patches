@@ -1,5 +1,5 @@
-{"version":"2.1",
-"patch_notes": "Adds a test item to test the Github addon.",
+{"version":"2",
+"patch_notes": "Reverted from test version.",
 "files":[
 {"file":"11go_goblin_bath01_6050357.blp","id":6050357},
 {"file":"11go_goblin_bath01_6198481.blp","id":6198481},
@@ -458,12 +458,5 @@
 {"file":"11go_goblin_trashpile01_lod02.skin","id":5726096},
 {"file":"11go_goblin_trashpile01_lod03.skin","id":5726098},
 {"file":"11go_goblin_trashpile01_6036341.blp","id":6036341},
-{"file":"11go_goblin_trashpile01_6036342.blp","id":6036342},
-{"file": "talktome_warband_journey.m2", "id": 1096621},
-{"file": "talktome_warband_journey00.skin", "id": 5756330},
-{"file": "talktome_warband_journey_lod01.skin", "id": 5756331},
-{"file": "talktome_warband_journey_lod02.skin", "id": 5756332},
-{"file": "talktome_warband_journey_lod03.skin", "id": 5756333},
-{"file": "talktome_warband_journey_glow.blp", "id": 5768793},
-{"file": "warband_yelloworange64.blp", "id": 5768791}
+{"file":"11go_goblin_trashpile01_6036342.blp","id":6036342}
 ]}
