@@ -1,0 +1,41 @@
+{
+	"fileDataID": 7074388,
+	"textures": [
+		{
+			"fileDataID": 7096206,
+			"file": "headlesshorsemanmount2_green.blp"
+		},
+		{
+			"fileDataID": 7074519,
+			"file": "armorreflect4.blp"
+		},
+		{
+			"fileDataID": 7096225,
+			"file": "headlesshorsemanmount2_glow_green.blp"
+		},
+		{
+			"fileDataID": 7096228,
+			"file": "headlesshorsemanmount2_fx_green.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 7074520,
+			"file": "headlesshorsemanmount200.skin"
+		}
+	],
+	"lodSkins": [
+		{
+			"fileDataID": 7074521,
+			"file": "headlesshorsemanmount2_lod01.skin"
+		},
+		{
+			"fileDataID": 7074522,
+			"file": "headlesshorsemanmount2_lod02.skin"
+		},
+		{
+			"fileDataID": 7074523,
+			"file": "headlesshorsemanmount2_lod03.skin"
+		}
+	]
+}

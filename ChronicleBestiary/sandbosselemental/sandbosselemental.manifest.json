@@ -1,0 +1,77 @@
+{
+	"fileDataID": 5154316,
+	"textures": [
+		{
+			"fileDataID": 5157089,
+			"file": "sandbosselemental_5157089.blp"
+		},
+		{
+			"fileDataID": 5175119,
+			"file": "sandbosselemental_5175119.blp"
+		},
+		{
+			"fileDataID": 5157090,
+			"file": "sandbosselemental_5157090.blp"
+		},
+		{
+			"fileDataID": 5157091,
+			"file": "sandbosselemental_5157091.blp"
+		},
+		{
+			"fileDataID": 5209661,
+			"file": "sandbosselemental_5209661.blp"
+		},
+		{
+			"fileDataID": 5209662,
+			"file": "sandbosselemental_5209662.blp"
+		},
+		{
+			"fileDataID": 5209663,
+			"file": "sandbosselemental_5209663.blp"
+		},
+		{
+			"fileDataID": 5209664,
+			"file": "sandbosselemental_5209664.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 5175125,
+			"file": "sandbosselemental00.skin"
+		}
+	],
+	"lodSkins": [
+		{
+			"fileDataID": 5175126,
+			"file": "sandbosselemental_lod01.skin"
+		},
+		{
+			"fileDataID": 5175127,
+			"file": "sandbosselemental_lod02.skin"
+		},
+		{
+			"fileDataID": 5175128,
+			"file": "sandbosselemental_lod03.skin"
+		}
+	],
+	"anims": [
+		{
+			"fileDataID": 5175122,
+			"file": "sandbosselemental0084-00.anim",
+			"animID": 84,
+			"subAnimID": 0
+		},
+		{
+			"fileDataID": 5175123,
+			"file": "sandbosselemental0060-00.anim",
+			"animID": 60,
+			"subAnimID": 0
+		},
+		{
+			"fileDataID": 5175124,
+			"file": "sandbosselemental0100-00.anim",
+			"animID": 100,
+			"subAnimID": 0
+		}
+	]
+}

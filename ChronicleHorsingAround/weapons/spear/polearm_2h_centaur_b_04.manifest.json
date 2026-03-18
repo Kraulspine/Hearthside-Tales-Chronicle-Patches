@@ -1,0 +1,33 @@
+{
+	"fileDataID": 4631423,
+	"textures": [
+		{
+			"fileDataID": 4633206,
+			"file": "polearm_2h_centaur_b_04_4633206.blp"
+		},
+		{
+			"fileDataID": 775194,
+			"file": "armorreflect4.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 4633207,
+			"file": "polearm_2h_centaur_b_0400.skin"
+		}
+	],
+	"lodSkins": [
+		{
+			"fileDataID": 4633210,
+			"file": "polearm_2h_centaur_b_04_lod01.skin"
+		},
+		{
+			"fileDataID": 4633213,
+			"file": "polearm_2h_centaur_b_04_lod02.skin"
+		},
+		{
+			"fileDataID": 4633216,
+			"file": "polearm_2h_centaur_b_04_lod03.skin"
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"fileDataID": 6251997,
+	"textures": [
+		{
+			"fileDataID": 6996155,
+			"file": "hawkstrider_white.blp"
+		},
+		{
+			"fileDataID": 6996209,
+			"file": "hawkstrider_6996209.blp"
+		},
+		{
+			"fileDataID": 6996210,
+			"file": "armorreflect4.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 6996212,
+			"file": "hawkstrider00.skin"
+		}
+	],
+	"lodSkins": [
+		{
+			"fileDataID": 6996213,
+			"file": "hawkstrider_lod01.skin"
+		},
+		{
+			"fileDataID": 6996215,
+			"file": "hawkstrider_lod02.skin"
+		},
+		{
+			"fileDataID": 6996217,
+			"file": "hawkstrider_lod03.skin"
+		}
+	],
+	"anims": [
+		{
+			"fileDataID": 7278117,
+			"file": "hawkstrider0061-00.anim",
+			"animID": 61,
+			"subAnimID": 0
+		},
+		{
+			"fileDataID": 7278119,
+			"file": "hawkstrider0062-00.anim",
+			"animID": 62,
+			"subAnimID": 0
+		},
+		{
+			"fileDataID": 7278121,
+			"file": "hawkstrider0097-00.anim",
+			"animID": 97,
+			"subAnimID": 0
+		},
+		{
+			"fileDataID": 7278123,
+			"file": "hawkstrider0096-00.anim",
+			"animID": 96,
+			"subAnimID": 0
+		},
+		{
+			"fileDataID": 7278125,
+			"file": "hawkstrider0098-00.anim",
+			"animID": 98,
+			"subAnimID": 0
+		},
+		{
+			"fileDataID": 7278127,
+			"file": "hawkstrider0100-00.anim",
+			"animID": 100,
+			"subAnimID": 0
+		},
+		{
+			"fileDataID": 7278129,
+			"file": "hawkstrider0101-00.anim",
+			"animID": 101,
+			"subAnimID": 0
+		}
+	]
+}

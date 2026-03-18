@@ -1,0 +1,12 @@
+{
+	"version":"1",
+	"files":[
+	{"file":"ograid_axe.m2","id":1064461},
+		{"file":"ograid_axe00.skin","id":6064465},
+	{"file":"ograid_sword.m2","id":1064502},
+		{"file":"ograid_sword00.skin","id":6064727},
+	{"file":"ograid_2hsword.m2","id":1064225},
+		{"file":"ograid_2hsword00.skin","id":6064466},
+	{"file":"ograid_weaponrack_weapons.blp","id":877453}
+]
+}

@@ -1,0 +1,33 @@
+{
+	"fileDataID": 4631413,
+	"textures": [
+		{
+			"fileDataID": 4633646,
+			"file": "bow_1h_centaur_b_01_4633646.blp"
+		},
+		{
+			"fileDataID": 144337,
+			"file": "armorreflect_rainbow.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 4633648,
+			"file": "bow_1h_centaur_b_0100.skin"
+		}
+	],
+	"lodSkins": [
+		{
+			"fileDataID": 4633649,
+			"file": "bow_1h_centaur_b_01_lod01.skin"
+		},
+		{
+			"fileDataID": 4633650,
+			"file": "bow_1h_centaur_b_01_lod02.skin"
+		},
+		{
+			"fileDataID": 4633652,
+			"file": "bow_1h_centaur_b_01_lod03.skin"
+		}
+	]
+}
