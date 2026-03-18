@@ -1,0 +1,33 @@
+{
+	"fileDataID": 5793092,
+	"textures": [
+		{
+			"fileDataID": 6047273,
+			"file": "11go_goblin_can01_6047273.blp"
+		},
+		{
+			"fileDataID": 5656928,
+			"file": "armorreflect4.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 6075662,
+			"file": "11go_goblin_cans0100.skin"
+		}
+	],
+	"lodSkins": [
+		{
+			"fileDataID": 6075663,
+			"file": "11go_goblin_cans01_lod01.skin"
+		},
+		{
+			"fileDataID": 6075664,
+			"file": "11go_goblin_cans01_lod02.skin"
+		},
+		{
+			"fileDataID": 6075665,
+			"file": "11go_goblin_cans01_lod03.skin"
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"fileDataID": 5771530,
+	"textures": [
+		{
+			"fileDataID": 6363333,
+			"file": "11go_goblin_crane01_6363333.blp"
+		},
+		{
+			"fileDataID": 5656928,
+			"file": "armorreflect4.blp"
+		},
+		{
+			"fileDataID": 6363334,
+			"file": "11go_goblin_crane01_6363334.blp"
+		},
+		{
+			"fileDataID": 6050393,
+			"file": "11go_goblin_watchtower01_6050393.blp"
+		},
+		{
+			"fileDataID": 6363335,
+			"file": "11go_goblin_crane01_6363335.blp"
+		},
+		{
+			"fileDataID": 5656932,
+			"file": "8fx_basic_spark_sheet.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 5771697,
+			"file": "11go_goblin_crane0100.skin"
+		}
+	],
+	"lodSkins": [
+		{
+			"fileDataID": 5771698,
+			"file": "11go_goblin_crane01_lod01.skin"
+		},
+		{
+			"fileDataID": 5771699,
+			"file": "11go_goblin_crane01_lod02.skin"
+		},
+		{
+			"fileDataID": 5771700,
+			"file": "11go_goblin_crane01_lod03.skin"
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"fileDataID": 6198958,
+	"textures": [
+		{
+			"fileDataID": 6153488,
+			"file": "11go_goblin_poolfloaty02_6153488.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 6199834,
+			"file": "11go_goblin_poolfloaty0200.skin"
+		}
+	],
+	"lodSkins": [
+		{
+			"fileDataID": 6199837,
+			"file": "11go_goblin_poolfloaty02_lod01.skin"
+		},
+		{
+			"fileDataID": 6199840,
+			"file": "11go_goblin_poolfloaty02_lod02.skin"
+		},
+		{
+			"fileDataID": 6199845,
+			"file": "11go_goblin_poolfloaty02_lod03.skin"
+		}
+	]
+}
