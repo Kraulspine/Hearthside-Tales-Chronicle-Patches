@@ -1,0 +1,3255 @@
+{
+  "name": "GroundEffects",
+  "version": "MU-1",
+  "url": null,
+  "files": [
+    {
+      "id": 1308057,
+      "file": "dbfilesclient/GroundEffectDoodad.db2"
+    },
+    {
+      "id": 1308499,
+      "file": "dbfilesclient/GroundEffectTexture.db2"
+    },
+    {
+      "id": 5228466,
+      "file": "world/nodxt/detail/10eddetail01.m2"
+    },
+    {
+      "id": 5238948,
+      "file": "world/nodxt/detail/10eddetail0100.skin"
+    },
+    {
+      "id": 4853640,
+      "file": "world/expansion10/doodads/11xp_plantflower_pink01.m2"
+    },
+    {
+      "id": 4854522,
+      "file": "world/expansion10/doodads/11xp_plantflower_pink0100.skin"
+    },
+    {
+      "id": 4854023,
+      "file": "world/expansion10/doodads/11xp_plantflower_white07.m2"
+    },
+    {
+      "id": 4854525,
+      "file": "world/expansion10/doodads/11xp_plantflower_white0700.skin"
+    },
+    {
+      "id": 5238947,
+      "file": "world/nodxt/detail/10eddetail01_5238947.blp"
+    },
+    {
+      "id": 5238949,
+      "file": "world/nodxt/detail/10eddetail01_lod01.skin"
+    },
+    {
+      "id": 5238950,
+      "file": "world/nodxt/detail/10eddetail01_lod02.skin"
+    },
+    {
+      "id": 5228467,
+      "file": "world/nodxt/detail/10eddetail02.m2"
+    },
+    {
+      "id": 5238957,
+      "file": "world/nodxt/detail/10eddetail0200.skin"
+    },
+    {
+      "id": 5238959,
+      "file": "world/nodxt/detail/10eddetail02_lod01.skin"
+    },
+    {
+      "id": 5238961,
+      "file": "world/nodxt/detail/10eddetail02_lod02.skin"
+    },
+    {
+      "id": 5238963,
+      "file": "world/nodxt/detail/10eddetail02_lod03.skin"
+    },
+    {
+      "id": 5228468,
+      "file": "world/nodxt/detail/10eddetail03.m2"
+    },
+    {
+      "id": 5238965,
+      "file": "world/nodxt/detail/10eddetail0300.skin"
+    },
+    {
+      "id": 5238971,
+      "file": "world/nodxt/detail/10eddetail03_lod01.skin"
+    },
+    {
+      "id": 5238973,
+      "file": "world/nodxt/detail/10eddetail03_lod02.skin"
+    },
+    {
+      "id": 5238975,
+      "file": "world/nodxt/detail/10eddetail03_lod03.skin"
+    },
+    {
+      "id": 5245890,
+      "file": "world/nodxt/detail/10eddetail04.m2"
+    },
+    {
+      "id": 5246037,
+      "file": "world/nodxt/detail/10eddetail0400.skin"
+    },
+    {
+      "id": 5246038,
+      "file": "world/nodxt/detail/10eddetail04_lod01.skin"
+    },
+    {
+      "id": 5246039,
+      "file": "world/nodxt/detail/10eddetail04_lod02.skin"
+    },
+    {
+      "id": 5246040,
+      "file": "world/nodxt/detail/10eddetail04_lod03.skin"
+    },
+    {
+      "id": 5778214,
+      "file": "models/world/nodxt/detail/5778214.m2"
+    },
+    {
+      "id": 5778908,
+      "file": "models/world/nodxt/detail/577821400.skin"
+    },
+    {
+      "id": 5778215,
+      "file": "models/world/nodxt/detail/5778215.m2"
+    },
+    {
+      "id": 5778909,
+      "file": "models/world/nodxt/detail/577821500.skin"
+    },
+    {
+      "id": 5778216,
+      "file": "models/world/nodxt/detail/5778216.m2"
+    },
+    {
+      "id": 5778910,
+      "file": "models/world/nodxt/detail/577821600.skin"
+    },
+    {
+      "id": 5778217,
+      "file": "models/world/nodxt/detail/5778217.m2"
+    },
+    {
+      "id": 5778911,
+      "file": "models/world/nodxt/detail/577821700.skin"
+    },
+    {
+      "id": 5778219,
+      "file": "models/world/nodxt/detail/5778219.m2"
+    },
+    {
+      "id": 5778912,
+      "file": "models/world/nodxt/detail/577821900.skin"
+    },
+    {
+      "id": 5778220,
+      "file": "models/world/nodxt/detail/5778220.m2"
+    },
+    {
+      "id": 5778913,
+      "file": "models/world/nodxt/detail/577822000.skin"
+    },
+    {
+      "id": 5778221,
+      "file": "models/world/nodxt/detail/5778221.m2"
+    },
+    {
+      "id": 5778914,
+      "file": "models/world/nodxt/detail/577822100.skin"
+    },
+    {
+      "id": 5778222,
+      "file": "models/world/nodxt/detail/5778222.m2"
+    },
+    {
+      "id": 5778921,
+      "file": "models/world/nodxt/detail/577822200.skin"
+    },
+    {
+      "id": 5778223,
+      "file": "models/world/nodxt/detail/5778223.m2"
+    },
+    {
+      "id": 5778924,
+      "file": "models/world/nodxt/detail/577822300.skin"
+    },
+    {
+      "id": 5778224,
+      "file": "models/world/nodxt/detail/5778224.m2"
+    },
+    {
+      "id": 5778922,
+      "file": "models/world/nodxt/detail/577822400.skin"
+    },
+    {
+      "id": 5778225,
+      "file": "models/world/nodxt/detail/5778225.m2"
+    },
+    {
+      "id": 5778925,
+      "file": "models/world/nodxt/detail/577822500.skin"
+    },
+    {
+      "id": 5778226,
+      "file": "models/world/nodxt/detail/5778226.m2"
+    },
+    {
+      "id": 5778928,
+      "file": "models/world/nodxt/detail/577822600.skin"
+    },
+    {
+      "id": 5778227,
+      "file": "models/world/nodxt/detail/5778227.m2"
+    },
+    {
+      "id": 5778927,
+      "file": "models/world/nodxt/detail/577822700.skin"
+    },
+    {
+      "id": 5778228,
+      "file": "models/world/nodxt/detail/5778228.m2"
+    },
+    {
+      "id": 5778931,
+      "file": "models/world/nodxt/detail/577822800.skin"
+    },
+    {
+      "id": 5778229,
+      "file": "models/world/nodxt/detail/5778229.m2"
+    },
+    {
+      "id": 5778930,
+      "file": "models/world/nodxt/detail/577822900.skin"
+    },
+    {
+      "id": 5778230,
+      "file": "models/world/nodxt/detail/5778230.m2"
+    },
+    {
+      "id": 5778941,
+      "file": "models/world/nodxt/detail/577823000.skin"
+    },
+    {
+      "id": 5778231,
+      "file": "models/world/nodxt/detail/5778231.m2"
+    },
+    {
+      "id": 5778942,
+      "file": "models/world/nodxt/detail/577823100.skin"
+    },
+    {
+      "id": 5778232,
+      "file": "models/world/nodxt/detail/5778232.m2"
+    },
+    {
+      "id": 5778947,
+      "file": "models/world/nodxt/detail/577823200.skin"
+    },
+    {
+      "id": 5778233,
+      "file": "models/world/nodxt/detail/5778233.m2"
+    },
+    {
+      "id": 5778948,
+      "file": "models/world/nodxt/detail/577823300.skin"
+    },
+    {
+      "id": 5778234,
+      "file": "models/world/nodxt/detail/5778234.m2"
+    },
+    {
+      "id": 5778949,
+      "file": "models/world/nodxt/detail/577823400.skin"
+    },
+    {
+      "id": 5778235,
+      "file": "models/world/nodxt/detail/5778235.m2"
+    },
+    {
+      "id": 5778955,
+      "file": "models/world/nodxt/detail/577823500.skin"
+    },
+    {
+      "id": 5778236,
+      "file": "models/world/nodxt/detail/5778236.m2"
+    },
+    {
+      "id": 5778956,
+      "file": "models/world/nodxt/detail/577823600.skin"
+    },
+    {
+      "id": 5778237,
+      "file": "models/world/nodxt/detail/5778237.m2"
+    },
+    {
+      "id": 5778952,
+      "file": "models/world/nodxt/detail/577823700.skin"
+    },
+    {
+      "id": 5778238,
+      "file": "models/world/nodxt/detail/5778238.m2"
+    },
+    {
+      "id": 5778957,
+      "file": "models/world/nodxt/detail/577823800.skin"
+    },
+    {
+      "id": 5778239,
+      "file": "models/world/nodxt/detail/5778239.m2"
+    },
+    {
+      "id": 5778962,
+      "file": "models/world/nodxt/detail/577823900.skin"
+    },
+    {
+      "id": 5778240,
+      "file": "models/world/nodxt/detail/5778240.m2"
+    },
+    {
+      "id": 5778964,
+      "file": "models/world/nodxt/detail/577824000.skin"
+    },
+    {
+      "id": 5778241,
+      "file": "models/world/nodxt/detail/5778241.m2"
+    },
+    {
+      "id": 5778965,
+      "file": "models/world/nodxt/detail/577824100.skin"
+    },
+    {
+      "id": 6079351,
+      "file": "models/world/nodxt/detail/6079351.m2"
+    },
+    {
+      "id": 6079461,
+      "file": "models/world/nodxt/detail/607935100.skin"
+    },
+    {
+      "id": 6079352,
+      "file": "models/world/nodxt/detail/6079352.m2"
+    },
+    {
+      "id": 6079471,
+      "file": "models/world/nodxt/detail/607935200.skin"
+    },
+    {
+      "id": 6079353,
+      "file": "models/world/nodxt/detail/6079353.m2"
+    },
+    {
+      "id": 6079467,
+      "file": "models/world/nodxt/detail/607935300.skin"
+    },
+    {
+      "id": 5778907,
+      "file": "world/expansion10/doodads/goblin/11go_goblin_trashpile01_5778907.blp"
+    },
+    {
+      "id": 4238242,
+      "file": "world/nodxt/detail/expansion09/10candirt01.m2"
+    },
+    {
+      "id": 4239516,
+      "file": "world/nodxt/detail/expansion09/10candirt0100.skin"
+    },
+    {
+      "id": 4238243,
+      "file": "world/nodxt/detail/expansion09/10candirt02.m2"
+    },
+    {
+      "id": 4239517,
+      "file": "world/nodxt/detail/expansion09/10candirt0200.skin"
+    },
+    {
+      "id": 4238244,
+      "file": "world/nodxt/detail/expansion09/10candirt03.m2"
+    },
+    {
+      "id": 4239521,
+      "file": "world/nodxt/detail/expansion09/10candirt0300.skin"
+    },
+    {
+      "id": 3788203,
+      "file": "world/nodxt/detail/expansion09/10canfern01.m2"
+    },
+    {
+      "id": 3850595,
+      "file": "world/nodxt/detail/expansion09/10canfern0100.skin"
+    },
+    {
+      "id": 3788204,
+      "file": "world/nodxt/detail/expansion09/10canfern02.m2"
+    },
+    {
+      "id": 3850724,
+      "file": "world/nodxt/detail/expansion09/10canfern0200.skin"
+    },
+    {
+      "id": 4208786,
+      "file": "world/nodxt/detail/expansion09/10canlifebloomflower01.m2"
+    },
+    {
+      "id": 4208903,
+      "file": "world/nodxt/detail/expansion09/10canlifebloomflower0100.skin"
+    },
+    {
+      "id": 4208787,
+      "file": "world/nodxt/detail/expansion09/10canlifebloomflower02.m2"
+    },
+    {
+      "id": 4208908,
+      "file": "world/nodxt/detail/expansion09/10canlifebloomflower0200.skin"
+    },
+    {
+      "id": 4208788,
+      "file": "world/nodxt/detail/expansion09/10canlifebloomflower03.m2"
+    },
+    {
+      "id": 4208904,
+      "file": "world/nodxt/detail/expansion09/10canlifebloomflower0300.skin"
+    },
+    {
+      "id": 4208789,
+      "file": "world/nodxt/detail/expansion09/10canlifebloomflower04.m2"
+    },
+    {
+      "id": 4208905,
+      "file": "world/nodxt/detail/expansion09/10canlifebloomflower0400.skin"
+    },
+    {
+      "id": 4208902,
+      "file": "world/nodxt/detail/expansion09/10canlifebloomflower04_4208902.blp"
+    },
+    {
+      "id": 3788205,
+      "file": "world/nodxt/detail/expansion09/10canmoss01.m2"
+    },
+    {
+      "id": 3850598,
+      "file": "world/nodxt/detail/expansion09/10canmoss0100.skin"
+    },
+    {
+      "id": 3788206,
+      "file": "world/nodxt/detail/expansion09/10canmoss02.m2"
+    },
+    {
+      "id": 3850593,
+      "file": "world/nodxt/detail/expansion09/10canmoss0200.skin"
+    },
+    {
+      "id": 3788207,
+      "file": "world/nodxt/detail/expansion09/10canmoss03.m2"
+    },
+    {
+      "id": 3850599,
+      "file": "world/nodxt/detail/expansion09/10canmoss0300.skin"
+    },
+    {
+      "id": 3788208,
+      "file": "world/nodxt/detail/expansion09/10canmoss04.m2"
+    },
+    {
+      "id": 3850725,
+      "file": "world/nodxt/detail/expansion09/10canmoss0400.skin"
+    },
+    {
+      "id": 4250296,
+      "file": "world/nodxt/detail/expansion09/10canovergrowth01.m2"
+    },
+    {
+      "id": 4250770,
+      "file": "world/nodxt/detail/expansion09/10canovergrowth0100.skin"
+    },
+    {
+      "id": 4250298,
+      "file": "world/nodxt/detail/expansion09/10canovergrowth03.m2"
+    },
+    {
+      "id": 4250775,
+      "file": "world/nodxt/detail/expansion09/10canovergrowth0300.skin"
+    },
+    {
+      "id": 4250299,
+      "file": "world/nodxt/detail/expansion09/10canovergrowth04.m2"
+    },
+    {
+      "id": 4250773,
+      "file": "world/nodxt/detail/expansion09/10canovergrowth0400.skin"
+    },
+    {
+      "id": 3788209,
+      "file": "world/nodxt/detail/expansion09/10canpebble01.m2"
+    },
+    {
+      "id": 3850735,
+      "file": "world/nodxt/detail/expansion09/10canpebble0100.skin"
+    },
+    {
+      "id": 3788210,
+      "file": "world/nodxt/detail/expansion09/10canpebble02.m2"
+    },
+    {
+      "id": 3850732,
+      "file": "world/nodxt/detail/expansion09/10canpebble0200.skin"
+    },
+    {
+      "id": 3788211,
+      "file": "world/nodxt/detail/expansion09/10canpebble03.m2"
+    },
+    {
+      "id": 3850728,
+      "file": "world/nodxt/detail/expansion09/10canpebble0300.skin"
+    },
+    {
+      "id": 3776890,
+      "file": "world/nodxt/detail/expansion09/10canpebble03_3776890.blp"
+    },
+    {
+      "id": 4238245,
+      "file": "world/nodxt/detail/expansion09/10canrocks01.m2"
+    },
+    {
+      "id": 4239523,
+      "file": "world/nodxt/detail/expansion09/10canrocks0100.skin"
+    },
+    {
+      "id": 4238246,
+      "file": "world/nodxt/detail/expansion09/10canrocks02.m2"
+    },
+    {
+      "id": 4239524,
+      "file": "world/nodxt/detail/expansion09/10canrocks0200.skin"
+    },
+    {
+      "id": 4238247,
+      "file": "world/nodxt/detail/expansion09/10canrocks03.m2"
+    },
+    {
+      "id": 4239526,
+      "file": "world/nodxt/detail/expansion09/10canrocks0300.skin"
+    },
+    {
+      "id": 4238248,
+      "file": "world/nodxt/detail/expansion09/10canrocks04.m2"
+    },
+    {
+      "id": 4239530,
+      "file": "world/nodxt/detail/expansion09/10canrocks0400.skin"
+    },
+    {
+      "id": 4248186,
+      "file": "world/nodxt/detail/expansion09/10cansand02.m2"
+    },
+    {
+      "id": 4248211,
+      "file": "world/nodxt/detail/expansion09/10cansand0200.skin"
+    },
+    {
+      "id": 4248187,
+      "file": "world/nodxt/detail/expansion09/10cansand03.m2"
+    },
+    {
+      "id": 4248212,
+      "file": "world/nodxt/detail/expansion09/10cansand0300.skin"
+    },
+    {
+      "id": 3763209,
+      "file": "world/nodxt/detail/expansion09/10canvolcanicmoss02.m2"
+    },
+    {
+      "id": 3763234,
+      "file": "world/nodxt/detail/expansion09/10canvolcanicmoss0200.skin"
+    },
+    {
+      "id": 3763210,
+      "file": "world/nodxt/detail/expansion09/10canvolcanicmoss03.m2"
+    },
+    {
+      "id": 3763223,
+      "file": "world/nodxt/detail/expansion09/10canvolcanicmoss0300.skin"
+    },
+    {
+      "id": 3763211,
+      "file": "world/nodxt/detail/expansion09/10canvolcanicmoss04.m2"
+    },
+    {
+      "id": 3763225,
+      "file": "world/nodxt/detail/expansion09/10canvolcanicmoss0400.skin"
+    },
+    {
+      "id": 4268930,
+      "file": "world/nodxt/detail/expansion09/10canvolcanicmoss05.m2"
+    },
+    {
+      "id": 4272539,
+      "file": "world/nodxt/detail/expansion09/10canvolcanicmoss0500.skin"
+    },
+    {
+      "id": 4240586,
+      "file": "world/nodxt/detail/expansion09/10dksgrass01.m2"
+    },
+    {
+      "id": 4240776,
+      "file": "world/nodxt/detail/expansion09/10dksgrass0100.skin"
+    },
+    {
+      "id": 4240587,
+      "file": "world/nodxt/detail/expansion09/10dksgrass02.m2"
+    },
+    {
+      "id": 4240777,
+      "file": "world/nodxt/detail/expansion09/10dksgrass0200.skin"
+    },
+    {
+      "id": 4240595,
+      "file": "world/nodxt/detail/expansion09/10dksgrass03.m2"
+    },
+    {
+      "id": 4240779,
+      "file": "world/nodxt/detail/expansion09/10dksgrass0300.skin"
+    },
+    {
+      "id": 4240596,
+      "file": "world/nodxt/detail/expansion09/10dksgrass04.m2"
+    },
+    {
+      "id": 4240781,
+      "file": "world/nodxt/detail/expansion09/10dksgrass0400.skin"
+    },
+    {
+      "id": 4240775,
+      "file": "world/nodxt/detail/expansion09/10dksgrass04_4240775.blp"
+    },
+    {
+      "id": 4005410,
+      "file": "world/nodxt/detail/expansion09/10drgclump01.m2"
+    },
+    {
+      "id": 4005449,
+      "file": "world/nodxt/detail/expansion09/10drgclump0100.skin"
+    },
+    {
+      "id": 4005411,
+      "file": "world/nodxt/detail/expansion09/10drgclump02.m2"
+    },
+    {
+      "id": 4006761,
+      "file": "world/nodxt/detail/expansion09/10drgclump0200.skin"
+    },
+    {
+      "id": 4005412,
+      "file": "world/nodxt/detail/expansion09/10drgclump03.m2"
+    },
+    {
+      "id": 4006726,
+      "file": "world/nodxt/detail/expansion09/10drgclump0300.skin"
+    },
+    {
+      "id": 4196651,
+      "file": "world/nodxt/detail/expansion09/10drgclump04.m2"
+    },
+    {
+      "id": 4197291,
+      "file": "world/nodxt/detail/expansion09/10drgclump0400.skin"
+    },
+    {
+      "id": 4196652,
+      "file": "world/nodxt/detail/expansion09/10drgclump05.m2"
+    },
+    {
+      "id": 4197289,
+      "file": "world/nodxt/detail/expansion09/10drgclump0500.skin"
+    },
+    {
+      "id": 4196653,
+      "file": "world/nodxt/detail/expansion09/10drgclump06.m2"
+    },
+    {
+      "id": 4197292,
+      "file": "world/nodxt/detail/expansion09/10drgclump0600.skin"
+    },
+    {
+      "id": 4005413,
+      "file": "world/nodxt/detail/expansion09/10drgfrond01.m2"
+    },
+    {
+      "id": 4005450,
+      "file": "world/nodxt/detail/expansion09/10drgfrond0100.skin"
+    },
+    {
+      "id": 4005414,
+      "file": "world/nodxt/detail/expansion09/10drgfrond02.m2"
+    },
+    {
+      "id": 4005448,
+      "file": "world/nodxt/detail/expansion09/10drgfrond0200.skin"
+    },
+    {
+      "id": 4005415,
+      "file": "world/nodxt/detail/expansion09/10drgfrond03.m2"
+    },
+    {
+      "id": 4006763,
+      "file": "world/nodxt/detail/expansion09/10drgfrond0300.skin"
+    },
+    {
+      "id": 4197293,
+      "file": "world/nodxt/detail/expansion09/10drgfrond05.m2"
+    },
+    {
+      "id": 4197314,
+      "file": "world/nodxt/detail/expansion09/10drgfrond0500.skin"
+    },
+    {
+      "id": 4197294,
+      "file": "world/nodxt/detail/expansion09/10drgfrond06.m2"
+    },
+    {
+      "id": 4197317,
+      "file": "world/nodxt/detail/expansion09/10drgfrond0600.skin"
+    },
+    {
+      "id": 4005419,
+      "file": "world/nodxt/detail/expansion09/10drgpebbles01.m2"
+    },
+    {
+      "id": 4005445,
+      "file": "world/nodxt/detail/expansion09/10drgpebbles0100.skin"
+    },
+    {
+      "id": 4005420,
+      "file": "world/nodxt/detail/expansion09/10drgpebbles02.m2"
+    },
+    {
+      "id": 4008597,
+      "file": "world/nodxt/detail/expansion09/10drgpebbles0200.skin"
+    },
+    {
+      "id": 4005421,
+      "file": "world/nodxt/detail/expansion09/10drgpebbles03.m2"
+    },
+    {
+      "id": 4008598,
+      "file": "world/nodxt/detail/expansion09/10drgpebbles0300.skin"
+    },
+    {
+      "id": 4005444,
+      "file": "world/nodxt/detail/expansion09/10drgpebbles03_4005444.blp"
+    },
+    {
+      "id": 4210211,
+      "file": "world/nodxt/detail/expansion09/10gslemeraldgrassdetail01.m2"
+    },
+    {
+      "id": 4210796,
+      "file": "world/nodxt/detail/expansion09/10gslemeraldgrassdetail0100.skin"
+    },
+    {
+      "id": 4210212,
+      "file": "world/nodxt/detail/expansion09/10gslemeraldgrassdetail02.m2"
+    },
+    {
+      "id": 4210790,
+      "file": "world/nodxt/detail/expansion09/10gslemeraldgrassdetail0200.skin"
+    },
+    {
+      "id": 4210214,
+      "file": "world/nodxt/detail/expansion09/10gslemeraldgrassdetail03.m2"
+    },
+    {
+      "id": 4210793,
+      "file": "world/nodxt/detail/expansion09/10gslemeraldgrassdetail0300.skin"
+    },
+    {
+      "id": 4210215,
+      "file": "world/nodxt/detail/expansion09/10gslemeraldgrassdetail04.m2"
+    },
+    {
+      "id": 4210772,
+      "file": "world/nodxt/detail/expansion09/10gslemeraldgrassdetail0400.skin"
+    },
+    {
+      "id": 4210768,
+      "file": "world/nodxt/detail/expansion09/10gslemeraldgrassdetail04_4210768.blp"
+    },
+    {
+      "id": 4045648,
+      "file": "world/nodxt/detail/expansion09/10gslemeraldmossdetail01.m2"
+    },
+    {
+      "id": 4048776,
+      "file": "world/nodxt/detail/expansion09/10gslemeraldmossdetail0100.skin"
+    },
+    {
+      "id": 4045649,
+      "file": "world/nodxt/detail/expansion09/10gslemeraldmossdetail02.m2"
+    },
+    {
+      "id": 4048774,
+      "file": "world/nodxt/detail/expansion09/10gslemeraldmossdetail0200.skin"
+    },
+    {
+      "id": 4045650,
+      "file": "world/nodxt/detail/expansion09/10gslemeraldmossdetail03.m2"
+    },
+    {
+      "id": 4048777,
+      "file": "world/nodxt/detail/expansion09/10gslemeraldmossdetail0300.skin"
+    },
+    {
+      "id": 4045651,
+      "file": "world/nodxt/detail/expansion09/10gslemeraldmossdetail04.m2"
+    },
+    {
+      "id": 4048780,
+      "file": "world/nodxt/detail/expansion09/10gslemeraldmossdetail0400.skin"
+    },
+    {
+      "id": 4035536,
+      "file": "world/nodxt/detail/expansion09/10gslemeraldmossdetail04_4035536.blp"
+    },
+    {
+      "id": 3851016,
+      "file": "world/nodxt/detail/expansion09/10gslflowerdetail01.m2"
+    },
+    {
+      "id": 3851051,
+      "file": "world/nodxt/detail/expansion09/10gslflowerdetail0100.skin"
+    },
+    {
+      "id": 3851017,
+      "file": "world/nodxt/detail/expansion09/10gslflowerdetail02.m2"
+    },
+    {
+      "id": 3851053,
+      "file": "world/nodxt/detail/expansion09/10gslflowerdetail0200.skin"
+    },
+    {
+      "id": 3851018,
+      "file": "world/nodxt/detail/expansion09/10gslflowerdetail03.m2"
+    },
+    {
+      "id": 3851054,
+      "file": "world/nodxt/detail/expansion09/10gslflowerdetail0300.skin"
+    },
+    {
+      "id": 3851019,
+      "file": "world/nodxt/detail/expansion09/10gslflowerdetail04.m2"
+    },
+    {
+      "id": 3851056,
+      "file": "world/nodxt/detail/expansion09/10gslflowerdetail0400.skin"
+    },
+    {
+      "id": 3851049,
+      "file": "world/nodxt/detail/expansion09/10gslflowerdetail04_3851049.blp"
+    },
+    {
+      "id": 4269053,
+      "file": "world/nodxt/detail/expansion09/10gslflowerdetail05.m2"
+    },
+    {
+      "id": 4269060,
+      "file": "world/nodxt/detail/expansion09/10gslflowerdetail0500.skin"
+    },
+    {
+      "id": 4269054,
+      "file": "world/nodxt/detail/expansion09/10gslflowerdetail06.m2"
+    },
+    {
+      "id": 4269062,
+      "file": "world/nodxt/detail/expansion09/10gslflowerdetail0600.skin"
+    },
+    {
+      "id": 4269056,
+      "file": "world/nodxt/detail/expansion09/10gslflowerdetail08.m2"
+    },
+    {
+      "id": 4269064,
+      "file": "world/nodxt/detail/expansion09/10gslflowerdetail0800.skin"
+    },
+    {
+      "id": 4269057,
+      "file": "world/nodxt/detail/expansion09/10gslflowerdetail08_4269057.blp"
+    },
+    {
+      "id": 4064744,
+      "file": "world/nodxt/detail/expansion09/10gslfoothillsgrass01.m2"
+    },
+    {
+      "id": 4064873,
+      "file": "world/nodxt/detail/expansion09/10gslfoothillsgrass0100.skin"
+    },
+    {
+      "id": 4064745,
+      "file": "world/nodxt/detail/expansion09/10gslfoothillsgrass02.m2"
+    },
+    {
+      "id": 4064877,
+      "file": "world/nodxt/detail/expansion09/10gslfoothillsgrass0200.skin"
+    },
+    {
+      "id": 4064748,
+      "file": "world/nodxt/detail/expansion09/10gslfoothillsshrub01.m2"
+    },
+    {
+      "id": 4064874,
+      "file": "world/nodxt/detail/expansion09/10gslfoothillsshrub0100.skin"
+    },
+    {
+      "id": 4064749,
+      "file": "world/nodxt/detail/expansion09/10gslfoothillsshrub02.m2"
+    },
+    {
+      "id": 4064883,
+      "file": "world/nodxt/detail/expansion09/10gslfoothillsshrub0200.skin"
+    },
+    {
+      "id": 4064750,
+      "file": "world/nodxt/detail/expansion09/10gslfoothillsshrub03.m2"
+    },
+    {
+      "id": 4064882,
+      "file": "world/nodxt/detail/expansion09/10gslfoothillsshrub0300.skin"
+    },
+    {
+      "id": 4064751,
+      "file": "world/nodxt/detail/expansion09/10gslfoothillsshrub04.m2"
+    },
+    {
+      "id": 4064879,
+      "file": "world/nodxt/detail/expansion09/10gslfoothillsshrub0400.skin"
+    },
+    {
+      "id": 4064747,
+      "file": "world/nodxt/detail/expansion09/10gslfoothillsweed01.m2"
+    },
+    {
+      "id": 4064880,
+      "file": "world/nodxt/detail/expansion09/10gslfoothillsweed0100.skin"
+    },
+    {
+      "id": 4064746,
+      "file": "world/nodxt/detail/expansion09/10gslfoothillsweed02.m2"
+    },
+    {
+      "id": 4064876,
+      "file": "world/nodxt/detail/expansion09/10gslfoothillsweed0200.skin"
+    },
+    {
+      "id": 3761776,
+      "file": "world/nodxt/detail/expansion09/10gslgrassdetail01.m2"
+    },
+    {
+      "id": 3761796,
+      "file": "world/nodxt/detail/expansion09/10gslgrassdetail0100.skin"
+    },
+    {
+      "id": 3761777,
+      "file": "world/nodxt/detail/expansion09/10gslgrassdetail02.m2"
+    },
+    {
+      "id": 3761797,
+      "file": "world/nodxt/detail/expansion09/10gslgrassdetail0200.skin"
+    },
+    {
+      "id": 3761778,
+      "file": "world/nodxt/detail/expansion09/10gslgrassdetail03.m2"
+    },
+    {
+      "id": 3761799,
+      "file": "world/nodxt/detail/expansion09/10gslgrassdetail0300.skin"
+    },
+    {
+      "id": 3761779,
+      "file": "world/nodxt/detail/expansion09/10gslgrassdetail04.m2"
+    },
+    {
+      "id": 3761802,
+      "file": "world/nodxt/detail/expansion09/10gslgrassdetail0400.skin"
+    },
+    {
+      "id": 3761783,
+      "file": "world/nodxt/detail/expansion09/10gslground01.m2"
+    },
+    {
+      "id": 4061294,
+      "file": "world/nodxt/detail/expansion09/10gslground0100.skin"
+    },
+    {
+      "id": 3761782,
+      "file": "world/nodxt/detail/expansion09/10gslground02.m2"
+    },
+    {
+      "id": 4061295,
+      "file": "world/nodxt/detail/expansion09/10gslground0200.skin"
+    },
+    {
+      "id": 3761781,
+      "file": "world/nodxt/detail/expansion09/10gslground03.m2"
+    },
+    {
+      "id": 4061298,
+      "file": "world/nodxt/detail/expansion09/10gslground0300.skin"
+    },
+    {
+      "id": 3830887,
+      "file": "world/nodxt/detail/expansion09/10gslgroveclover01.m2"
+    },
+    {
+      "id": 3846164,
+      "file": "world/nodxt/detail/expansion09/10gslgroveclover0100.skin"
+    },
+    {
+      "id": 3830892,
+      "file": "world/nodxt/detail/expansion09/10gslgroveclover02.m2"
+    },
+    {
+      "id": 3846166,
+      "file": "world/nodxt/detail/expansion09/10gslgroveclover0200.skin"
+    },
+    {
+      "id": 3830895,
+      "file": "world/nodxt/detail/expansion09/10gslgroveflower01.m2"
+    },
+    {
+      "id": 3846168,
+      "file": "world/nodxt/detail/expansion09/10gslgroveflower0100.skin"
+    },
+    {
+      "id": 3830897,
+      "file": "world/nodxt/detail/expansion09/10gslgroveflower02.m2"
+    },
+    {
+      "id": 3846171,
+      "file": "world/nodxt/detail/expansion09/10gslgroveflower0200.skin"
+    },
+    {
+      "id": 3846161,
+      "file": "world/nodxt/detail/expansion09/10gslgroveflower02_3846161.blp"
+    },
+    {
+      "id": 3761784,
+      "file": "world/nodxt/detail/expansion09/10gslhighlightdetail01.m2"
+    },
+    {
+      "id": 3761810,
+      "file": "world/nodxt/detail/expansion09/10gslhighlightdetail0100.skin"
+    },
+    {
+      "id": 3761785,
+      "file": "world/nodxt/detail/expansion09/10gslhighlightdetail02.m2"
+    },
+    {
+      "id": 3761809,
+      "file": "world/nodxt/detail/expansion09/10gslhighlightdetail0200.skin"
+    },
+    {
+      "id": 3761786,
+      "file": "world/nodxt/detail/expansion09/10gslhighlightdetail03.m2"
+    },
+    {
+      "id": 3761813,
+      "file": "world/nodxt/detail/expansion09/10gslhighlightdetail0300.skin"
+    },
+    {
+      "id": 3761787,
+      "file": "world/nodxt/detail/expansion09/10gslhighlightdetail04.m2"
+    },
+    {
+      "id": 3761815,
+      "file": "world/nodxt/detail/expansion09/10gslhighlightdetail0400.skin"
+    },
+    {
+      "id": 3761793,
+      "file": "world/nodxt/detail/expansion09/10gslhighlightdetail04_3761793.blp"
+    },
+    {
+      "id": 4185476,
+      "file": "world/nodxt/detail/expansion09/10gslmineralclump01.m2"
+    },
+    {
+      "id": 4185496,
+      "file": "world/nodxt/detail/expansion09/10gslmineralclump0100.skin"
+    },
+    {
+      "id": 4185478,
+      "file": "world/nodxt/detail/expansion09/10gslmineralpebble01.m2"
+    },
+    {
+      "id": 4185499,
+      "file": "world/nodxt/detail/expansion09/10gslmineralpebble0100.skin"
+    },
+    {
+      "id": 4185479,
+      "file": "world/nodxt/detail/expansion09/10gslmineralpebble02.m2"
+    },
+    {
+      "id": 4185502,
+      "file": "world/nodxt/detail/expansion09/10gslmineralpebble0200.skin"
+    },
+    {
+      "id": 4064870,
+      "file": "world/nodxt/detail/expansion09/10gslmineralpebble02_4064870.blp"
+    },
+    {
+      "id": 4185477,
+      "file": "world/nodxt/detail/expansion09/10gslmineralrocks01.m2"
+    },
+    {
+      "id": 4185494,
+      "file": "world/nodxt/detail/expansion09/10gslmineralrocks0100.skin"
+    },
+    {
+      "id": 4035502,
+      "file": "world/nodxt/detail/expansion09/10gslmossdetail01.m2"
+    },
+    {
+      "id": 4035542,
+      "file": "world/nodxt/detail/expansion09/10gslmossdetail0100.skin"
+    },
+    {
+      "id": 4035503,
+      "file": "world/nodxt/detail/expansion09/10gslmossdetail02.m2"
+    },
+    {
+      "id": 4035538,
+      "file": "world/nodxt/detail/expansion09/10gslmossdetail0200.skin"
+    },
+    {
+      "id": 4035504,
+      "file": "world/nodxt/detail/expansion09/10gslmossdetail03.m2"
+    },
+    {
+      "id": 4035540,
+      "file": "world/nodxt/detail/expansion09/10gslmossdetail0300.skin"
+    },
+    {
+      "id": 4035505,
+      "file": "world/nodxt/detail/expansion09/10gslmossdetail04.m2"
+    },
+    {
+      "id": 4035539,
+      "file": "world/nodxt/detail/expansion09/10gslmossdetail0400.skin"
+    },
+    {
+      "id": 4226851,
+      "file": "world/nodxt/detail/expansion09/10gslriverflower01.m2"
+    },
+    {
+      "id": 4226868,
+      "file": "world/nodxt/detail/expansion09/10gslriverflower0100.skin"
+    },
+    {
+      "id": 4226852,
+      "file": "world/nodxt/detail/expansion09/10gslriverflower02.m2"
+    },
+    {
+      "id": 4226859,
+      "file": "world/nodxt/detail/expansion09/10gslriverflower0200.skin"
+    },
+    {
+      "id": 4226853,
+      "file": "world/nodxt/detail/expansion09/10gslriverleaves01.m2"
+    },
+    {
+      "id": 4226867,
+      "file": "world/nodxt/detail/expansion09/10gslriverleaves0100.skin"
+    },
+    {
+      "id": 4226854,
+      "file": "world/nodxt/detail/expansion09/10gslrivermoss01.m2"
+    },
+    {
+      "id": 4226863,
+      "file": "world/nodxt/detail/expansion09/10gslrivermoss0100.skin"
+    },
+    {
+      "id": 4270749,
+      "file": "world/nodxt/detail/expansion09/10hgldecayfungus01.m2"
+    },
+    {
+      "id": 4272568,
+      "file": "world/nodxt/detail/expansion09/10hgldecayfungus0100.skin"
+    },
+    {
+      "id": 4270750,
+      "file": "world/nodxt/detail/expansion09/10hgldecayfungus02.m2"
+    },
+    {
+      "id": 4272567,
+      "file": "world/nodxt/detail/expansion09/10hgldecayfungus0200.skin"
+    },
+    {
+      "id": 4272507,
+      "file": "world/nodxt/detail/expansion09/10hgldecayfungus02_4272507.blp"
+    },
+    {
+      "id": 4270745,
+      "file": "world/nodxt/detail/expansion09/10hgldecaygrass01.m2"
+    },
+    {
+      "id": 4272516,
+      "file": "world/nodxt/detail/expansion09/10hgldecaygrass0100.skin"
+    },
+    {
+      "id": 4270746,
+      "file": "world/nodxt/detail/expansion09/10hgldecaygrass02.m2"
+    },
+    {
+      "id": 4272509,
+      "file": "world/nodxt/detail/expansion09/10hgldecaygrass0200.skin"
+    },
+    {
+      "id": 4270747,
+      "file": "world/nodxt/detail/expansion09/10hgldecaygrass03.m2"
+    },
+    {
+      "id": 4272518,
+      "file": "world/nodxt/detail/expansion09/10hgldecaygrass0300.skin"
+    },
+    {
+      "id": 4270748,
+      "file": "world/nodxt/detail/expansion09/10hgldecaygrass04.m2"
+    },
+    {
+      "id": 4272538,
+      "file": "world/nodxt/detail/expansion09/10hgldecaygrass0400.skin"
+    },
+    {
+      "id": 4008381,
+      "file": "world/nodxt/detail/expansion09/10hgldirt01.m2"
+    },
+    {
+      "id": 4024604,
+      "file": "world/nodxt/detail/expansion09/10hgldirt0100.skin"
+    },
+    {
+      "id": 3987679,
+      "file": "world/nodxt/detail/expansion09/10hglgoldentundra01.m2"
+    },
+    {
+      "id": 3993370,
+      "file": "world/nodxt/detail/expansion09/10hglgoldentundra0100.skin"
+    },
+    {
+      "id": 3987680,
+      "file": "world/nodxt/detail/expansion09/10hglgoldentundra02.m2"
+    },
+    {
+      "id": 3993369,
+      "file": "world/nodxt/detail/expansion09/10hglgoldentundra0200.skin"
+    },
+    {
+      "id": 3987681,
+      "file": "world/nodxt/detail/expansion09/10hglgoldentundra03.m2"
+    },
+    {
+      "id": 3993373,
+      "file": "world/nodxt/detail/expansion09/10hglgoldentundra0300.skin"
+    },
+    {
+      "id": 3987682,
+      "file": "world/nodxt/detail/expansion09/10hglgoldentundra04.m2"
+    },
+    {
+      "id": 3993374,
+      "file": "world/nodxt/detail/expansion09/10hglgoldentundra0400.skin"
+    },
+    {
+      "id": 3993355,
+      "file": "world/nodxt/detail/expansion09/10hglgoldentundra04_3993355.blp"
+    },
+    {
+      "id": 4005523,
+      "file": "world/nodxt/detail/expansion09/10hglgrass01.m2"
+    },
+    {
+      "id": 4017398,
+      "file": "world/nodxt/detail/expansion09/10hglgrass0100.skin"
+    },
+    {
+      "id": 4005524,
+      "file": "world/nodxt/detail/expansion09/10hglgrass02.m2"
+    },
+    {
+      "id": 4017401,
+      "file": "world/nodxt/detail/expansion09/10hglgrass0200.skin"
+    },
+    {
+      "id": 4005525,
+      "file": "world/nodxt/detail/expansion09/10hglgrass03.m2"
+    },
+    {
+      "id": 4023383,
+      "file": "world/nodxt/detail/expansion09/10hglgrass0300.skin"
+    },
+    {
+      "id": 4005526,
+      "file": "world/nodxt/detail/expansion09/10hglgrass04.m2"
+    },
+    {
+      "id": 4023384,
+      "file": "world/nodxt/detail/expansion09/10hglgrass0400.skin"
+    },
+    {
+      "id": 4005527,
+      "file": "world/nodxt/detail/expansion09/10hglmoss01.m2"
+    },
+    {
+      "id": 4023582,
+      "file": "world/nodxt/detail/expansion09/10hglmoss0100.skin"
+    },
+    {
+      "id": 4005528,
+      "file": "world/nodxt/detail/expansion09/10hglmoss02.m2"
+    },
+    {
+      "id": 4024584,
+      "file": "world/nodxt/detail/expansion09/10hglmoss0200.skin"
+    },
+    {
+      "id": 4005529,
+      "file": "world/nodxt/detail/expansion09/10hglmoss03.m2"
+    },
+    {
+      "id": 4024585,
+      "file": "world/nodxt/detail/expansion09/10hglmoss0300.skin"
+    },
+    {
+      "id": 4005530,
+      "file": "world/nodxt/detail/expansion09/10hglmoss04.m2"
+    },
+    {
+      "id": 4024588,
+      "file": "world/nodxt/detail/expansion09/10hglmoss0400.skin"
+    },
+    {
+      "id": 4005571,
+      "file": "world/nodxt/detail/expansion09/10hglpebble01.m2"
+    },
+    {
+      "id": 4024591,
+      "file": "world/nodxt/detail/expansion09/10hglpebble0100.skin"
+    },
+    {
+      "id": 4005572,
+      "file": "world/nodxt/detail/expansion09/10hglpebble02.m2"
+    },
+    {
+      "id": 4024593,
+      "file": "world/nodxt/detail/expansion09/10hglpebble0200.skin"
+    },
+    {
+      "id": 4005573,
+      "file": "world/nodxt/detail/expansion09/10hglpebble03.m2"
+    },
+    {
+      "id": 4024596,
+      "file": "world/nodxt/detail/expansion09/10hglpebble0300.skin"
+    },
+    {
+      "id": 3987675,
+      "file": "world/nodxt/detail/expansion09/10hglredtundra01.m2"
+    },
+    {
+      "id": 3993359,
+      "file": "world/nodxt/detail/expansion09/10hglredtundra0100.skin"
+    },
+    {
+      "id": 3987676,
+      "file": "world/nodxt/detail/expansion09/10hglredtundra02.m2"
+    },
+    {
+      "id": 3993357,
+      "file": "world/nodxt/detail/expansion09/10hglredtundra0200.skin"
+    },
+    {
+      "id": 3987677,
+      "file": "world/nodxt/detail/expansion09/10hglredtundra03.m2"
+    },
+    {
+      "id": 3993363,
+      "file": "world/nodxt/detail/expansion09/10hglredtundra0300.skin"
+    },
+    {
+      "id": 3987678,
+      "file": "world/nodxt/detail/expansion09/10hglredtundra04.m2"
+    },
+    {
+      "id": 3993361,
+      "file": "world/nodxt/detail/expansion09/10hglredtundra0400.skin"
+    },
+    {
+      "id": 4081240,
+      "file": "world/nodxt/detail/expansion09/10hglsnowgrowth01.m2"
+    },
+    {
+      "id": 4081669,
+      "file": "world/nodxt/detail/expansion09/10hglsnowgrowth0100.skin"
+    },
+    {
+      "id": 4081241,
+      "file": "world/nodxt/detail/expansion09/10hglsnowgrowth02.m2"
+    },
+    {
+      "id": 4081676,
+      "file": "world/nodxt/detail/expansion09/10hglsnowgrowth0200.skin"
+    },
+    {
+      "id": 4081242,
+      "file": "world/nodxt/detail/expansion09/10hglsnowgrowth03.m2"
+    },
+    {
+      "id": 4081677,
+      "file": "world/nodxt/detail/expansion09/10hglsnowgrowth0300.skin"
+    },
+    {
+      "id": 4081243,
+      "file": "world/nodxt/detail/expansion09/10hglsnowgrowth04.m2"
+    },
+    {
+      "id": 4081695,
+      "file": "world/nodxt/detail/expansion09/10hglsnowgrowth0400.skin"
+    },
+    {
+      "id": 4005531,
+      "file": "world/nodxt/detail/expansion09/10hgltwigs01.m2"
+    },
+    {
+      "id": 4024598,
+      "file": "world/nodxt/detail/expansion09/10hgltwigs0100.skin"
+    },
+    {
+      "id": 4005532,
+      "file": "world/nodxt/detail/expansion09/10hgltwigs02.m2"
+    },
+    {
+      "id": 4024600,
+      "file": "world/nodxt/detail/expansion09/10hgltwigs0200.skin"
+    },
+    {
+      "id": 4005533,
+      "file": "world/nodxt/detail/expansion09/10hgltwigs03.m2"
+    },
+    {
+      "id": 4024601,
+      "file": "world/nodxt/detail/expansion09/10hgltwigs0300.skin"
+    },
+    {
+      "id": 4005534,
+      "file": "world/nodxt/detail/expansion09/10hgltwigs04.m2"
+    },
+    {
+      "id": 4024602,
+      "file": "world/nodxt/detail/expansion09/10hgltwigs0400.skin"
+    },
+    {
+      "id": 4081244,
+      "file": "world/nodxt/detail/expansion09/10hgltwigs05.m2"
+    },
+    {
+      "id": 4081721,
+      "file": "world/nodxt/detail/expansion09/10hgltwigs0500.skin"
+    },
+    {
+      "id": 4081245,
+      "file": "world/nodxt/detail/expansion09/10hgltwigs06.m2"
+    },
+    {
+      "id": 4081720,
+      "file": "world/nodxt/detail/expansion09/10hgltwigs0600.skin"
+    },
+    {
+      "id": 4081246,
+      "file": "world/nodxt/detail/expansion09/10hgltwigs07.m2"
+    },
+    {
+      "id": 4081719,
+      "file": "world/nodxt/detail/expansion09/10hgltwigs0700.skin"
+    },
+    {
+      "id": 4081247,
+      "file": "world/nodxt/detail/expansion09/10hgltwigs08.m2"
+    },
+    {
+      "id": 4081717,
+      "file": "world/nodxt/detail/expansion09/10hgltwigs0800.skin"
+    },
+    {
+      "id": 4017396,
+      "file": "world/nodxt/detail/expansion09/10hgltwigs08_4017396.blp"
+    },
+    {
+      "id": 3847952,
+      "file": "world/nodxt/detail/expansion09/10xpashflake02.m2"
+    },
+    {
+      "id": 3847993,
+      "file": "world/nodxt/detail/expansion09/10xpashflake0200.skin"
+    },
+    {
+      "id": 3847953,
+      "file": "world/nodxt/detail/expansion09/10xpashgrass01.m2"
+    },
+    {
+      "id": 3847985,
+      "file": "world/nodxt/detail/expansion09/10xpashgrass0100.skin"
+    },
+    {
+      "id": 3763208,
+      "file": "world/nodxt/detail/expansion09/10xp_fern01.m2"
+    },
+    {
+      "id": 3763213,
+      "file": "world/nodxt/detail/expansion09/10xp_fern0100.skin"
+    },
+    {
+      "id": 4505978,
+      "file": "world/nodxt/detail/expansion09/10xp_flowerscyan01.m2"
+    },
+    {
+      "id": 4506495,
+      "file": "world/nodxt/detail/expansion09/10xp_flowerscyan0100.skin"
+    },
+    {
+      "id": 4505979,
+      "file": "world/nodxt/detail/expansion09/10xp_flowerscyan02.m2"
+    },
+    {
+      "id": 4506496,
+      "file": "world/nodxt/detail/expansion09/10xp_flowerscyan0200.skin"
+    },
+    {
+      "id": 4505980,
+      "file": "world/nodxt/detail/expansion09/10xp_flowerscyan03.m2"
+    },
+    {
+      "id": 4506502,
+      "file": "world/nodxt/detail/expansion09/10xp_flowerscyan0300.skin"
+    },
+    {
+      "id": 4505981,
+      "file": "world/nodxt/detail/expansion09/10xp_flowerscyan04.m2"
+    },
+    {
+      "id": 4506503,
+      "file": "world/nodxt/detail/expansion09/10xp_flowerscyan0400.skin"
+    },
+    {
+      "id": 4506494,
+      "file": "world/nodxt/detail/expansion09/10xp_flowerscyan04_4506494.blp"
+    },
+    {
+      "id": 4533626,
+      "file": "world/nodxt/detail/expansion09/10xp_flowerspurple01.m2"
+    },
+    {
+      "id": 4539443,
+      "file": "world/nodxt/detail/expansion09/10xp_flowerspurple0100.skin"
+    },
+    {
+      "id": 4533627,
+      "file": "world/nodxt/detail/expansion09/10xp_flowerspurple02.m2"
+    },
+    {
+      "id": 4539454,
+      "file": "world/nodxt/detail/expansion09/10xp_flowerspurple0200.skin"
+    },
+    {
+      "id": 4533628,
+      "file": "world/nodxt/detail/expansion09/10xp_flowerspurple03.m2"
+    },
+    {
+      "id": 4539456,
+      "file": "world/nodxt/detail/expansion09/10xp_flowerspurple0300.skin"
+    },
+    {
+      "id": 4533634,
+      "file": "world/nodxt/detail/expansion09/10xp_flowersyellow01.m2"
+    },
+    {
+      "id": 4548527,
+      "file": "world/nodxt/detail/expansion09/10xp_flowersyellow0100.skin"
+    },
+    {
+      "id": 4533635,
+      "file": "world/nodxt/detail/expansion09/10xp_flowersyellow02.m2"
+    },
+    {
+      "id": 4548528,
+      "file": "world/nodxt/detail/expansion09/10xp_flowersyellow0200.skin"
+    },
+    {
+      "id": 4533636,
+      "file": "world/nodxt/detail/expansion09/10xp_flowersyellow03.m2"
+    },
+    {
+      "id": 4548530,
+      "file": "world/nodxt/detail/expansion09/10xp_flowersyellow0300.skin"
+    },
+    {
+      "id": 4533637,
+      "file": "world/nodxt/detail/expansion09/10xp_flowersyellow04.m2"
+    },
+    {
+      "id": 4548532,
+      "file": "world/nodxt/detail/expansion09/10xp_flowersyellow0400.skin"
+    },
+    {
+      "id": 4548526,
+      "file": "world/nodxt/detail/expansion09/10xp_flowersyellow04_4548526.blp"
+    },
+    {
+      "id": 4498317,
+      "file": "world/nodxt/detail/expansion09/10xp_grasspurple01.m2"
+    },
+    {
+      "id": 4498631,
+      "file": "world/nodxt/detail/expansion09/10xp_grasspurple0100.skin"
+    },
+    {
+      "id": 4498318,
+      "file": "world/nodxt/detail/expansion09/10xp_grasspurple02.m2"
+    },
+    {
+      "id": 4498635,
+      "file": "world/nodxt/detail/expansion09/10xp_grasspurple0200.skin"
+    },
+    {
+      "id": 4498319,
+      "file": "world/nodxt/detail/expansion09/10xp_grasspurple03.m2"
+    },
+    {
+      "id": 4498633,
+      "file": "world/nodxt/detail/expansion09/10xp_grasspurple0300.skin"
+    },
+    {
+      "id": 4498320,
+      "file": "world/nodxt/detail/expansion09/10xp_grasspurple05.m2"
+    },
+    {
+      "id": 4498641,
+      "file": "world/nodxt/detail/expansion09/10xp_grasspurple0500.skin"
+    },
+    {
+      "id": 4498629,
+      "file": "world/nodxt/detail/expansion09/10xp_grasspurple05_4498629.blp"
+    },
+    {
+      "id": 4533629,
+      "file": "world/nodxt/detail/expansion09/10xp_grassvibrant01.m2"
+    },
+    {
+      "id": 4539459,
+      "file": "world/nodxt/detail/expansion09/10xp_grassvibrant0100.skin"
+    },
+    {
+      "id": 4539441,
+      "file": "world/nodxt/detail/expansion09/10xp_grassvibrant01_4539441.blp"
+    },
+    {
+      "id": 4533630,
+      "file": "world/nodxt/detail/expansion09/10xp_grassvibrant02.m2"
+    },
+    {
+      "id": 4539362,
+      "file": "world/nodxt/detail/expansion09/10xp_grassvibrant0200.skin"
+    },
+    {
+      "id": 4533631,
+      "file": "world/nodxt/detail/expansion09/10xp_grassvibrant03.m2"
+    },
+    {
+      "id": 4539364,
+      "file": "world/nodxt/detail/expansion09/10xp_grassvibrant0300.skin"
+    },
+    {
+      "id": 4533632,
+      "file": "world/nodxt/detail/expansion09/10xp_grassvibrant04.m2"
+    },
+    {
+      "id": 4539369,
+      "file": "world/nodxt/detail/expansion09/10xp_grassvibrant0400.skin"
+    },
+    {
+      "id": 4533633,
+      "file": "world/nodxt/detail/expansion09/10xp_grassvibrant05.m2"
+    },
+    {
+      "id": 4539373,
+      "file": "world/nodxt/detail/expansion09/10xp_grassvibrant0500.skin"
+    },
+    {
+      "id": 4533638,
+      "file": "world/nodxt/detail/expansion09/10xp_grassvibrant06.m2"
+    },
+    {
+      "id": 4539394,
+      "file": "world/nodxt/detail/expansion09/10xp_grassvibrant0600.skin"
+    },
+    {
+      "id": 4533639,
+      "file": "world/nodxt/detail/expansion09/10xp_grassvibrant07.m2"
+    },
+    {
+      "id": 4539408,
+      "file": "world/nodxt/detail/expansion09/10xp_grassvibrant0700.skin"
+    },
+    {
+      "id": 4533640,
+      "file": "world/nodxt/detail/expansion09/10xp_grassvibrant08.m2"
+    },
+    {
+      "id": 4539411,
+      "file": "world/nodxt/detail/expansion09/10xp_grassvibrant0800.skin"
+    },
+    {
+      "id": 4533641,
+      "file": "world/nodxt/detail/expansion09/10xp_grassvibrant09.m2"
+    },
+    {
+      "id": 4539428,
+      "file": "world/nodxt/detail/expansion09/10xp_grassvibrant0900.skin"
+    },
+    {
+      "id": 4539360,
+      "file": "world/nodxt/detail/expansion09/10xp_grassvibrant09_4539360.blp"
+    },
+    {
+      "id": 4005416,
+      "file": "world/nodxt/detail/expansion09/10xp_grassyellow01.m2"
+    },
+    {
+      "id": 4197313,
+      "file": "world/nodxt/detail/expansion09/10xp_grassyellow0100.skin"
+    },
+    {
+      "id": 4197286,
+      "file": "world/nodxt/detail/expansion09/10xp_grassyellow01_4197286.blp"
+    },
+    {
+      "id": 4489314,
+      "file": "world/nodxt/detail/expansion09/10xp_grassyellow02.m2"
+    },
+    {
+      "id": 4489450,
+      "file": "world/nodxt/detail/expansion09/10xp_grassyellow0200.skin"
+    },
+    {
+      "id": 4489315,
+      "file": "world/nodxt/detail/expansion09/10xp_particles01.m2"
+    },
+    {
+      "id": 4489451,
+      "file": "world/nodxt/detail/expansion09/10xp_particles0100.skin"
+    },
+    {
+      "id": 4489442,
+      "file": "world/nodxt/detail/expansion09/10xp_particles01_4489442.blp"
+    },
+    {
+      "id": 4180107,
+      "file": "world/nodxt/detail/expansion09/10xp_pebbles01.m2"
+    },
+    {
+      "id": 4181482,
+      "file": "world/nodxt/detail/expansion09/10xp_pebbles0100.skin"
+    },
+    {
+      "id": 4180108,
+      "file": "world/nodxt/detail/expansion09/10xp_pebbles02.m2"
+    },
+    {
+      "id": 4181489,
+      "file": "world/nodxt/detail/expansion09/10xp_pebbles0200.skin"
+    },
+    {
+      "id": 4521359,
+      "file": "world/nodxt/detail/expansion09/10xp_pebbles02_lod01.skin"
+    },
+    {
+      "id": 4180109,
+      "file": "world/nodxt/detail/expansion09/10xp_pebbles03.m2"
+    },
+    {
+      "id": 4181484,
+      "file": "world/nodxt/detail/expansion09/10xp_pebbles0300.skin"
+    },
+    {
+      "id": 4489313,
+      "file": "world/nodxt/detail/expansion09/10xp_pebbles04.m2"
+    },
+    {
+      "id": 4489448,
+      "file": "world/nodxt/detail/expansion09/10xp_pebbles0400.skin"
+    },
+    {
+      "id": 4180110,
+      "file": "world/nodxt/detail/expansion09/10xp_rock01.m2"
+    },
+    {
+      "id": 4181488,
+      "file": "world/nodxt/detail/expansion09/10xp_rock0100.skin"
+    },
+    {
+      "id": 3847981,
+      "file": "world/nodxt/detail/expansion09/10xp_rock01_3847981.blp"
+    },
+    {
+      "id": 4489312,
+      "file": "world/nodxt/detail/expansion09/10xp_rock02.m2"
+    },
+    {
+      "id": 4489445,
+      "file": "world/nodxt/detail/expansion09/10xp_rock0200.skin"
+    },
+    {
+      "id": 4495927,
+      "file": "world/nodxt/detail/expansion09/10xp_rock03.m2"
+    },
+    {
+      "id": 4496216,
+      "file": "world/nodxt/detail/expansion09/10xp_rock0300.skin"
+    },
+    {
+      "id": 4495928,
+      "file": "world/nodxt/detail/expansion09/10xp_rock04.m2"
+    },
+    {
+      "id": 4496217,
+      "file": "world/nodxt/detail/expansion09/10xp_rock0400.skin"
+    },
+    {
+      "id": 4495929,
+      "file": "world/nodxt/detail/expansion09/10xp_rock05.m2"
+    },
+    {
+      "id": 4496215,
+      "file": "world/nodxt/detail/expansion09/10xp_rock0500.skin"
+    },
+    {
+      "id": 4226856,
+      "file": "world/nodxt/detail/expansion09/10xp_rock05_4226856.blp"
+    },
+    {
+      "id": 4742661,
+      "file": "world/nodxt/detail/expansion09/10xp_rockdark01.m2"
+    },
+    {
+      "id": 4742678,
+      "file": "world/nodxt/detail/expansion09/10xp_rockdark0100.skin"
+    },
+    {
+      "id": 4742660,
+      "file": "world/nodxt/detail/expansion09/10xp_rockdark02.m2"
+    },
+    {
+      "id": 4742675,
+      "file": "world/nodxt/detail/expansion09/10xp_rockdark0200.skin"
+    },
+    {
+      "id": 4742659,
+      "file": "world/nodxt/detail/expansion09/10xp_rockdark03.m2"
+    },
+    {
+      "id": 4742677,
+      "file": "world/nodxt/detail/expansion09/10xp_rockdark0300.skin"
+    },
+    {
+      "id": 4742658,
+      "file": "world/nodxt/detail/expansion09/10xp_rockdark04.m2"
+    },
+    {
+      "id": 4742674,
+      "file": "world/nodxt/detail/expansion09/10xp_rockdark0400.skin"
+    },
+    {
+      "id": 4742672,
+      "file": "world/nodxt/detail/expansion09/10xp_rockdark04_4742672.blp"
+    },
+    {
+      "id": 5048220,
+      "file": "world/nodxt/detail/expansion09/10xp_rockgrey01.m2"
+    },
+    {
+      "id": 5048868,
+      "file": "world/nodxt/detail/expansion09/10xp_rockgrey0100.skin"
+    },
+    {
+      "id": 5048219,
+      "file": "world/nodxt/detail/expansion09/10xp_rockgrey02.m2"
+    },
+    {
+      "id": 5048870,
+      "file": "world/nodxt/detail/expansion09/10xp_rockgrey0200.skin"
+    },
+    {
+      "id": 5048218,
+      "file": "world/nodxt/detail/expansion09/10xp_rockgrey03.m2"
+    },
+    {
+      "id": 5048860,
+      "file": "world/nodxt/detail/expansion09/10xp_rockgrey0300.skin"
+    },
+    {
+      "id": 5048217,
+      "file": "world/nodxt/detail/expansion09/10xp_rockgrey04.m2"
+    },
+    {
+      "id": 5048853,
+      "file": "world/nodxt/detail/expansion09/10xp_rockgrey0400.skin"
+    },
+    {
+      "id": 5048852,
+      "file": "world/nodxt/detail/expansion09/10xp_rockgrey04_5048852.blp"
+    },
+    {
+      "id": 4505422,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow01.m2"
+    },
+    {
+      "id": 4505473,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow0100.skin"
+    },
+    {
+      "id": 4505423,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow02.m2"
+    },
+    {
+      "id": 4505474,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow0200.skin"
+    },
+    {
+      "id": 4505424,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow03.m2"
+    },
+    {
+      "id": 4505468,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow0300.skin"
+    },
+    {
+      "id": 4505425,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow04.m2"
+    },
+    {
+      "id": 4505471,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow0400.skin"
+    },
+    {
+      "id": 4505427,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow05.m2"
+    },
+    {
+      "id": 4505465,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow0500.skin"
+    },
+    {
+      "id": 4505428,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow06.m2"
+    },
+    {
+      "id": 4505463,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow0600.skin"
+    },
+    {
+      "id": 4505429,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow07.m2"
+    },
+    {
+      "id": 4505460,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow0700.skin"
+    },
+    {
+      "id": 4505430,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow08.m2"
+    },
+    {
+      "id": 4505466,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow0800.skin"
+    },
+    {
+      "id": 4505457,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow08_4505457.blp"
+    },
+    {
+      "id": 4539340,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow09.m2"
+    },
+    {
+      "id": 4541178,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow0900.skin"
+    },
+    {
+      "id": 4539341,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow10.m2"
+    },
+    {
+      "id": 4541175,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow1000.skin"
+    },
+    {
+      "id": 4539342,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow11.m2"
+    },
+    {
+      "id": 4541183,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow1100.skin"
+    },
+    {
+      "id": 4539343,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow12.m2"
+    },
+    {
+      "id": 4541179,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow1200.skin"
+    },
+    {
+      "id": 4539344,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow13.m2"
+    },
+    {
+      "id": 4541184,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow1300.skin"
+    },
+    {
+      "id": 4539345,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow14.m2"
+    },
+    {
+      "id": 4541177,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow1400.skin"
+    },
+    {
+      "id": 4539346,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow15.m2"
+    },
+    {
+      "id": 4541176,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow1500.skin"
+    },
+    {
+      "id": 4539347,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow16.m2"
+    },
+    {
+      "id": 4541181,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow1600.skin"
+    },
+    {
+      "id": 4541171,
+      "file": "world/nodxt/detail/expansion09/10xp_rockyellow16_4541171.blp"
+    },
+    {
+      "id": 4248176,
+      "file": "world/nodxt/detail/expansion09/10xp_seashells01.m2"
+    },
+    {
+      "id": 4248209,
+      "file": "world/nodxt/detail/expansion09/10xp_seashells0100.skin"
+    },
+    {
+      "id": 4248188,
+      "file": "world/nodxt/detail/expansion09/10xp_weeds01.m2"
+    },
+    {
+      "id": 4248215,
+      "file": "world/nodxt/detail/expansion09/10xp_weeds0100.skin"
+    },
+    {
+      "id": 3852582,
+      "file": "world/nodxt/detail/expansion09/10xp_weeds01_3852582.blp"
+    },
+    {
+      "id": 4250297,
+      "file": "world/nodxt/detail/expansion09/10xp_weeds02.m2"
+    },
+    {
+      "id": 4250771,
+      "file": "world/nodxt/detail/expansion09/10xp_weeds0200.skin"
+    },
+    {
+      "id": 4250768,
+      "file": "world/nodxt/detail/expansion09/10xp_weeds02_4250768.blp"
+    },
+    {
+      "id": 4914684,
+      "file": "world/nodxt/detail/expansion10/11xp_bushgreen01.m2"
+    },
+    {
+      "id": 4993804,
+      "file": "world/nodxt/detail/expansion10/11xp_bushgreen0100.skin"
+    },
+    {
+      "id": 5519901,
+      "file": "world/nodxt/detail/expansion10/11xp_dirt01.m2"
+    },
+    {
+      "id": 5519925,
+      "file": "world/nodxt/detail/expansion10/11xp_dirt0100.skin"
+    },
+    {
+      "id": 5519902,
+      "file": "world/nodxt/detail/expansion10/11xp_dirt02.m2"
+    },
+    {
+      "id": 5519928,
+      "file": "world/nodxt/detail/expansion10/11xp_dirt0200.skin"
+    },
+    {
+      "id": 5519903,
+      "file": "world/nodxt/detail/expansion10/11xp_dirt03.m2"
+    },
+    {
+      "id": 5519930,
+      "file": "world/nodxt/detail/expansion10/11xp_dirt0300.skin"
+    },
+    {
+      "id": 5519904,
+      "file": "world/nodxt/detail/expansion10/11xp_dirt04.m2"
+    },
+    {
+      "id": 5519931,
+      "file": "world/nodxt/detail/expansion10/11xp_dirt0400.skin"
+    },
+    {
+      "id": 5006214,
+      "file": "world/nodxt/detail/expansion10/11xp_flowerdaisy01.m2"
+    },
+    {
+      "id": 5006492,
+      "file": "world/nodxt/detail/expansion10/11xp_flowerdaisy0100.skin"
+    },
+    {
+      "id": 5006489,
+      "file": "world/nodxt/detail/expansion10/11xp_flowerdaisy01_5006489.blp"
+    },
+    {
+      "id": 5128428,
+      "file": "world/nodxt/detail/expansion10/11xp_flowersaqua01.m2"
+    },
+    {
+      "id": 5128823,
+      "file": "world/nodxt/detail/expansion10/11xp_flowersaqua0100.skin"
+    },
+    {
+      "id": 4854024,
+      "file": "world/nodxt/detail/expansion10/11xp_flowersgreen01.m2"
+    },
+    {
+      "id": 4854527,
+      "file": "world/nodxt/detail/expansion10/11xp_flowersgreen0100.skin"
+    },
+    {
+      "id": 4854029,
+      "file": "world/nodxt/detail/expansion10/11xp_flowersyellow01.m2"
+    },
+    {
+      "id": 4854532,
+      "file": "world/nodxt/detail/expansion10/11xp_flowersyellow0100.skin"
+    },
+    {
+      "id": 5519900,
+      "file": "world/nodxt/detail/expansion10/11xp_flowersyellow02.m2"
+    },
+    {
+      "id": 5519924,
+      "file": "world/nodxt/detail/expansion10/11xp_flowersyellow0200.skin"
+    },
+    {
+      "id": 5128434,
+      "file": "world/nodxt/detail/expansion10/11xp_grassaqua01.m2"
+    },
+    {
+      "id": 5128769,
+      "file": "world/nodxt/detail/expansion10/11xp_grassaqua0100.skin"
+    },
+    {
+      "id": 5128435,
+      "file": "world/nodxt/detail/expansion10/11xp_grassaqua02.m2"
+    },
+    {
+      "id": 5128771,
+      "file": "world/nodxt/detail/expansion10/11xp_grassaqua0200.skin"
+    },
+    {
+      "id": 5128766,
+      "file": "world/nodxt/detail/expansion10/11xp_grassaqua02_5128766.blp"
+    },
+    {
+      "id": 5128436,
+      "file": "world/nodxt/detail/expansion10/11xp_grassaqua03.m2"
+    },
+    {
+      "id": 5128774,
+      "file": "world/nodxt/detail/expansion10/11xp_grassaqua0300.skin"
+    },
+    {
+      "id": 5128772,
+      "file": "world/nodxt/detail/expansion10/11xp_grassaqua03_5128772.blp"
+    },
+    {
+      "id": 5198887,
+      "file": "world/nodxt/detail/expansion10/11xp_grassaqua05.m2"
+    },
+    {
+      "id": 5199394,
+      "file": "world/nodxt/detail/expansion10/11xp_grassaqua0500.skin"
+    },
+    {
+      "id": 4867901,
+      "file": "world/nodxt/detail/expansion10/11xp_grassbrown01.m2"
+    },
+    {
+      "id": 4867932,
+      "file": "world/nodxt/detail/expansion10/11xp_grassbrown0100.skin"
+    },
+    {
+      "id": 4867902,
+      "file": "world/nodxt/detail/expansion10/11xp_grassbrown02.m2"
+    },
+    {
+      "id": 4867988,
+      "file": "world/nodxt/detail/expansion10/11xp_grassbrown0200.skin"
+    },
+    {
+      "id": 4867955,
+      "file": "world/nodxt/detail/expansion10/11xp_grassbrown02_4867955.blp"
+    },
+    {
+      "id": 4955771,
+      "file": "world/nodxt/detail/expansion10/11xp_grassbrown03.m2"
+    },
+    {
+      "id": 4955790,
+      "file": "world/nodxt/detail/expansion10/11xp_grassbrown0300.skin"
+    },
+    {
+      "id": 4955772,
+      "file": "world/nodxt/detail/expansion10/11xp_grassbrown04.m2"
+    },
+    {
+      "id": 4955788,
+      "file": "world/nodxt/detail/expansion10/11xp_grassbrown0400.skin"
+    },
+    {
+      "id": 4957188,
+      "file": "world/nodxt/detail/expansion10/11xp_grassbrown05.m2"
+    },
+    {
+      "id": 4957723,
+      "file": "world/nodxt/detail/expansion10/11xp_grassbrown0500.skin"
+    },
+    {
+      "id": 4957189,
+      "file": "world/nodxt/detail/expansion10/11xp_grassbrown06.m2"
+    },
+    {
+      "id": 4957724,
+      "file": "world/nodxt/detail/expansion10/11xp_grassbrown0600.skin"
+    },
+    {
+      "id": 4957676,
+      "file": "world/nodxt/detail/expansion10/11xp_grassbrown06_4957676.blp"
+    },
+    {
+      "id": 5006208,
+      "file": "world/nodxt/detail/expansion10/11xp_grassbrown07.m2"
+    },
+    {
+      "id": 5006491,
+      "file": "world/nodxt/detail/expansion10/11xp_grassbrown0700.skin"
+    },
+    {
+      "id": 5263718,
+      "file": "world/nodxt/detail/expansion10/11xp_grassbrown08.m2"
+    },
+    {
+      "id": 5263845,
+      "file": "world/nodxt/detail/expansion10/11xp_grassbrown0800.skin"
+    },
+    {
+      "id": 4854025,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen01.m2"
+    },
+    {
+      "id": 4854528,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen0100.skin"
+    },
+    {
+      "id": 5006206,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen02.m2"
+    },
+    {
+      "id": 5006494,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen0200.skin"
+    },
+    {
+      "id": 5006207,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen03.m2"
+    },
+    {
+      "id": 5006496,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen0300.skin"
+    },
+    {
+      "id": 5128427,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen04.m2"
+    },
+    {
+      "id": 5128782,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen0400.skin"
+    },
+    {
+      "id": 5128429,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen05.m2"
+    },
+    {
+      "id": 5128768,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen0500.skin"
+    },
+    {
+      "id": 5365736,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen06.m2"
+    },
+    {
+      "id": 5367968,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen0600.skin"
+    },
+    {
+      "id": 5365737,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen07.m2"
+    },
+    {
+      "id": 5367912,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen0700.skin"
+    },
+    {
+      "id": 5365738,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen08.m2"
+    },
+    {
+      "id": 5367953,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen0800.skin"
+    },
+    {
+      "id": 5367908,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen08_5367908.blp"
+    },
+    {
+      "id": 4914686,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen_flowers01.m2"
+    },
+    {
+      "id": 4993808,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen_flowers0100.skin"
+    },
+    {
+      "id": 4914689,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen_flowers02.m2"
+    },
+    {
+      "id": 4914698,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen_flowers0200.skin"
+    },
+    {
+      "id": 4914690,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen_flowers03.m2"
+    },
+    {
+      "id": 4914700,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen_flowers0300.skin"
+    },
+    {
+      "id": 4914691,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen_flowers03_4914691.blp"
+    },
+    {
+      "id": 5128426,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen_flowers04.m2"
+    },
+    {
+      "id": 5128776,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen_flowers0400.skin"
+    },
+    {
+      "id": 4867028,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen_leaves01.m2"
+    },
+    {
+      "id": 4870900,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen_leaves0100.skin"
+    },
+    {
+      "id": 4914687,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen_leaves02.m2"
+    },
+    {
+      "id": 4914695,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen_leaves0200.skin"
+    },
+    {
+      "id": 4914688,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen_leaves03.m2"
+    },
+    {
+      "id": 4914696,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen_leaves0300.skin"
+    },
+    {
+      "id": 4867029,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen_leavespetals01.m2"
+    },
+    {
+      "id": 4870901,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen_leavespetals0100.skin"
+    },
+    {
+      "id": 4867027,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen_petals01.m2"
+    },
+    {
+      "id": 4870899,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen_petals0100.skin"
+    },
+    {
+      "id": 4914685,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen_petals02.m2"
+    },
+    {
+      "id": 4993806,
+      "file": "world/nodxt/detail/expansion10/11xp_grassgreen_petals0200.skin"
+    },
+    {
+      "id": 4867030,
+      "file": "world/nodxt/detail/expansion10/11xp_grassred01.m2"
+    },
+    {
+      "id": 4870890,
+      "file": "world/nodxt/detail/expansion10/11xp_grassred0100.skin"
+    },
+    {
+      "id": 5163911,
+      "file": "world/nodxt/detail/expansion10/11xp_grasswater01.m2"
+    },
+    {
+      "id": 5164137,
+      "file": "world/nodxt/detail/expansion10/11xp_grasswater0100.skin"
+    },
+    {
+      "id": 5163817,
+      "file": "world/nodxt/detail/expansion10/11xp_grasswater01_5163817.blp"
+    },
+    {
+      "id": 5198888,
+      "file": "world/nodxt/detail/expansion10/11xp_grasswater02.m2"
+    },
+    {
+      "id": 5199401,
+      "file": "world/nodxt/detail/expansion10/11xp_grasswater0200.skin"
+    },
+    {
+      "id": 4854026,
+      "file": "world/nodxt/detail/expansion10/11xp_grassyellow01.m2"
+    },
+    {
+      "id": 4854530,
+      "file": "world/nodxt/detail/expansion10/11xp_grassyellow0100.skin"
+    },
+    {
+      "id": 4854028,
+      "file": "world/nodxt/detail/expansion10/11xp_grassyellow02.m2"
+    },
+    {
+      "id": 4854533,
+      "file": "world/nodxt/detail/expansion10/11xp_grassyellow0200.skin"
+    },
+    {
+      "id": 4867034,
+      "file": "world/nodxt/detail/expansion10/11xp_grassyellow03.m2"
+    },
+    {
+      "id": 4870884,
+      "file": "world/nodxt/detail/expansion10/11xp_grassyellow0300.skin"
+    },
+    {
+      "id": 4867035,
+      "file": "world/nodxt/detail/expansion10/11xp_grassyellow04.m2"
+    },
+    {
+      "id": 4870885,
+      "file": "world/nodxt/detail/expansion10/11xp_grassyellow0400.skin"
+    },
+    {
+      "id": 4867036,
+      "file": "world/nodxt/detail/expansion10/11xp_grassyellow05.m2"
+    },
+    {
+      "id": 4870886,
+      "file": "world/nodxt/detail/expansion10/11xp_grassyellow0500.skin"
+    },
+    {
+      "id": 4867037,
+      "file": "world/nodxt/detail/expansion10/11xp_grassyellow06.m2"
+    },
+    {
+      "id": 4870888,
+      "file": "world/nodxt/detail/expansion10/11xp_grassyellow0600.skin"
+    },
+    {
+      "id": 5225637,
+      "file": "world/nodxt/detail/expansion10/11xp_grassyellow07.m2"
+    },
+    {
+      "id": 5228519,
+      "file": "world/nodxt/detail/expansion10/11xp_grassyellow0700.skin"
+    },
+    {
+      "id": 5225638,
+      "file": "world/nodxt/detail/expansion10/11xp_grassyellow08.m2"
+    },
+    {
+      "id": 5239230,
+      "file": "world/nodxt/detail/expansion10/11xp_grassyellow0800.skin"
+    },
+    {
+      "id": 5225639,
+      "file": "world/nodxt/detail/expansion10/11xp_grassyellow09.m2"
+    },
+    {
+      "id": 5239234,
+      "file": "world/nodxt/detail/expansion10/11xp_grassyellow0900.skin"
+    },
+    {
+      "id": 5225640,
+      "file": "world/nodxt/detail/expansion10/11xp_grassyellow10.m2"
+    },
+    {
+      "id": 5228491,
+      "file": "world/nodxt/detail/expansion10/11xp_grassyellow1000.skin"
+    },
+    {
+      "id": 4870868,
+      "file": "world/nodxt/detail/expansion10/11xp_grassyellow10_4870868.blp"
+    },
+    {
+      "id": 4867026,
+      "file": "world/nodxt/detail/expansion10/11xp_grass_redflowers01.m2"
+    },
+    {
+      "id": 4870883,
+      "file": "world/nodxt/detail/expansion10/11xp_grass_redflowers0100.skin"
+    },
+    {
+      "id": 5546684,
+      "file": "world/nodxt/detail/expansion10/11xp_growth01.m2"
+    },
+    {
+      "id": 5565694,
+      "file": "world/nodxt/detail/expansion10/11xp_growth0100.skin"
+    },
+    {
+      "id": 5546685,
+      "file": "world/nodxt/detail/expansion10/11xp_growth02.m2"
+    },
+    {
+      "id": 5565698,
+      "file": "world/nodxt/detail/expansion10/11xp_growth0200.skin"
+    },
+    {
+      "id": 5546686,
+      "file": "world/nodxt/detail/expansion10/11xp_growth03.m2"
+    },
+    {
+      "id": 5565697,
+      "file": "world/nodxt/detail/expansion10/11xp_growth0300.skin"
+    },
+    {
+      "id": 5199382,
+      "file": "world/nodxt/detail/expansion10/11xp_growth03_5199382.blp"
+    },
+    {
+      "id": 5006212,
+      "file": "world/nodxt/detail/expansion10/11xp_leavesbrown01.m2"
+    },
+    {
+      "id": 5006503,
+      "file": "world/nodxt/detail/expansion10/11xp_leavesbrown0100.skin"
+    },
+    {
+      "id": 5006213,
+      "file": "world/nodxt/detail/expansion10/11xp_leavesbrown02.m2"
+    },
+    {
+      "id": 5006501,
+      "file": "world/nodxt/detail/expansion10/11xp_leavesbrown0200.skin"
+    },
+    {
+      "id": 5006215,
+      "file": "world/nodxt/detail/expansion10/11xp_leavesbrown03.m2"
+    },
+    {
+      "id": 5006509,
+      "file": "world/nodxt/detail/expansion10/11xp_leavesbrown0300.skin"
+    },
+    {
+      "id": 5006216,
+      "file": "world/nodxt/detail/expansion10/11xp_leavesbrown04.m2"
+    },
+    {
+      "id": 5006511,
+      "file": "world/nodxt/detail/expansion10/11xp_leavesbrown0400.skin"
+    },
+    {
+      "id": 5263873,
+      "file": "world/nodxt/detail/expansion10/11xp_leavesbrown05.m2"
+    },
+    {
+      "id": 5263876,
+      "file": "world/nodxt/detail/expansion10/11xp_leavesbrown0500.skin"
+    },
+    {
+      "id": 5263875,
+      "file": "world/nodxt/detail/expansion10/11xp_leavesbrown06.m2"
+    },
+    {
+      "id": 5273679,
+      "file": "world/nodxt/detail/expansion10/11xp_leavesbrown0600.skin"
+    },
+    {
+      "id": 5263841,
+      "file": "world/nodxt/detail/expansion10/11xp_leavesbrown06_5263841.blp"
+    },
+    {
+      "id": 5263874,
+      "file": "world/nodxt/detail/expansion10/11xp_leavesbrown07.m2"
+    },
+    {
+      "id": 5263880,
+      "file": "world/nodxt/detail/expansion10/11xp_leavesbrown0700.skin"
+    },
+    {
+      "id": 5006210,
+      "file": "world/nodxt/detail/expansion10/11xp_leavesgreen01.m2"
+    },
+    {
+      "id": 5006505,
+      "file": "world/nodxt/detail/expansion10/11xp_leavesgreen0100.skin"
+    },
+    {
+      "id": 5006211,
+      "file": "world/nodxt/detail/expansion10/11xp_leavesgreen02.m2"
+    },
+    {
+      "id": 5006498,
+      "file": "world/nodxt/detail/expansion10/11xp_leavesgreen0200.skin"
+    },
+    {
+      "id": 5365735,
+      "file": "world/nodxt/detail/expansion10/11xp_leavesgreen03.m2"
+    },
+    {
+      "id": 5367961,
+      "file": "world/nodxt/detail/expansion10/11xp_leavesgreen0300.skin"
+    },
+    {
+      "id": 5128425,
+      "file": "world/nodxt/detail/expansion10/11xp_mushroom_aqua01.m2"
+    },
+    {
+      "id": 5128775,
+      "file": "world/nodxt/detail/expansion10/11xp_mushroom_aqua0100.skin"
+    },
+    {
+      "id": 5198894,
+      "file": "world/nodxt/detail/expansion10/11xp_particles01.m2"
+    },
+    {
+      "id": 5199387,
+      "file": "world/nodxt/detail/expansion10/11xp_particles0100.skin"
+    },
+    {
+      "id": 4854027,
+      "file": "world/nodxt/detail/expansion10/11xp_petalsyellow01.m2"
+    },
+    {
+      "id": 4854531,
+      "file": "world/nodxt/detail/expansion10/11xp_petalsyellow0100.skin"
+    },
+    {
+      "id": 5006209,
+      "file": "world/nodxt/detail/expansion10/11xp_plantbrown02.m2"
+    },
+    {
+      "id": 5006507,
+      "file": "world/nodxt/detail/expansion10/11xp_plantbrown0200.skin"
+    },
+    {
+      "id": 4914683,
+      "file": "world/nodxt/detail/expansion10/11xp_plantgreen01.m2"
+    },
+    {
+      "id": 4993802,
+      "file": "world/nodxt/detail/expansion10/11xp_plantgreen0100.skin"
+    },
+    {
+      "id": 5006205,
+      "file": "world/nodxt/detail/expansion10/11xp_plantgreen02.m2"
+    },
+    {
+      "id": 5006493,
+      "file": "world/nodxt/detail/expansion10/11xp_plantgreen0200.skin"
+    },
+    {
+      "id": 5198892,
+      "file": "world/nodxt/detail/expansion10/11xp_plantgreen03.m2"
+    },
+    {
+      "id": 5199398,
+      "file": "world/nodxt/detail/expansion10/11xp_plantgreen0300.skin"
+    },
+    {
+      "id": 5567769,
+      "file": "world/nodxt/detail/expansion10/11xp_plantgreen04.m2"
+    },
+    {
+      "id": 5568702,
+      "file": "world/nodxt/detail/expansion10/11xp_plantgreen0400.skin"
+    },
+    {
+      "id": 5567770,
+      "file": "world/nodxt/detail/expansion10/11xp_plantgreensunflower01.m2"
+    },
+    {
+      "id": 5568703,
+      "file": "world/nodxt/detail/expansion10/11xp_plantgreensunflower0100.skin"
+    },
+    {
+      "id": 5568699,
+      "file": "world/nodxt/detail/expansion10/11xp_plantgreensunflower01_5568699.blp"
+    },
+    {
+      "id": 5568705,
+      "file": "world/nodxt/detail/expansion10/11xp_plantgreensunflower01_lod01.skin"
+    },
+    {
+      "id": 4867033,
+      "file": "world/nodxt/detail/expansion10/11xp_plantred01.m2"
+    },
+    {
+      "id": 4870902,
+      "file": "world/nodxt/detail/expansion10/11xp_plantred0100.skin"
+    },
+    {
+      "id": 5310040,
+      "file": "world/nodxt/detail/expansion10/11xp_plantred01_5310040.blp"
+    },
+    {
+      "id": 4854030,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks01.m2"
+    },
+    {
+      "id": 4854535,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks0100.skin"
+    },
+    {
+      "id": 5163735,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks02.m2"
+    },
+    {
+      "id": 5163822,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks0200.skin"
+    },
+    {
+      "id": 5163736,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks03.m2"
+    },
+    {
+      "id": 5163850,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks0300.skin"
+    },
+    {
+      "id": 5199775,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks04.m2"
+    },
+    {
+      "id": 5199817,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks0400.skin"
+    },
+    {
+      "id": 5199776,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks05.m2"
+    },
+    {
+      "id": 5199822,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks0500.skin"
+    },
+    {
+      "id": 5199777,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks06.m2"
+    },
+    {
+      "id": 5199815,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks0600.skin"
+    },
+    {
+      "id": 5199778,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks07.m2"
+    },
+    {
+      "id": 5199821,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks0700.skin"
+    },
+    {
+      "id": 5519674,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks08.m2"
+    },
+    {
+      "id": 5524234,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks0800.skin"
+    },
+    {
+      "id": 5519675,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks09.m2"
+    },
+    {
+      "id": 5524236,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks0900.skin"
+    },
+    {
+      "id": 5519676,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks10.m2"
+    },
+    {
+      "id": 5524237,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks1000.skin"
+    },
+    {
+      "id": 5519677,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks11.m2"
+    },
+    {
+      "id": 5524240,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks1100.skin"
+    },
+    {
+      "id": 5519678,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks12.m2"
+    },
+    {
+      "id": 5524241,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks1200.skin"
+    },
+    {
+      "id": 5519679,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks13.m2"
+    },
+    {
+      "id": 5524244,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks1300.skin"
+    },
+    {
+      "id": 5519680,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks14.m2"
+    },
+    {
+      "id": 5524246,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks1400.skin"
+    },
+    {
+      "id": 5519681,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks15.m2"
+    },
+    {
+      "id": 5524247,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks1500.skin"
+    },
+    {
+      "id": 5519905,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks16.m2"
+    },
+    {
+      "id": 5519932,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks1600.skin"
+    },
+    {
+      "id": 5519938,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks16_lod01.skin"
+    },
+    {
+      "id": 5519906,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks17.m2"
+    },
+    {
+      "id": 5519941,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks1700.skin"
+    },
+    {
+      "id": 5519922,
+      "file": "world/nodxt/detail/expansion10/11xp_rocks17_5519922.blp"
+    },
+    {
+      "id": 4854031,
+      "file": "world/nodxt/detail/expansion10/11xp_rocksdirt01.m2"
+    },
+    {
+      "id": 4854537,
+      "file": "world/nodxt/detail/expansion10/11xp_rocksdirt0100.skin"
+    },
+    {
+      "id": 4867899,
+      "file": "world/nodxt/detail/expansion10/11xp_rocksdirt02.m2"
+    },
+    {
+      "id": 4867928,
+      "file": "world/nodxt/detail/expansion10/11xp_rocksdirt0200.skin"
+    },
+    {
+      "id": 4867900,
+      "file": "world/nodxt/detail/expansion10/11xp_rocksdirt03.m2"
+    },
+    {
+      "id": 4867930,
+      "file": "world/nodxt/detail/expansion10/11xp_rocksdirt0300.skin"
+    },
+    {
+      "id": 4955773,
+      "file": "world/nodxt/detail/expansion10/11xp_rocksdirt04.m2"
+    },
+    {
+      "id": 4955776,
+      "file": "world/nodxt/detail/expansion10/11xp_rocksdirt0400.skin"
+    },
+    {
+      "id": 4955774,
+      "file": "world/nodxt/detail/expansion10/11xp_rocksdirt05.m2"
+    },
+    {
+      "id": 4955789,
+      "file": "world/nodxt/detail/expansion10/11xp_rocksdirt0500.skin"
+    },
+    {
+      "id": 4955775,
+      "file": "world/nodxt/detail/expansion10/11xp_rocksdirt05_4955775.blp"
+    },
+    {
+      "id": 4854033,
+      "file": "world/nodxt/detail/expansion10/11xp_rocksdirtgrass01.m2"
+    },
+    {
+      "id": 4854540,
+      "file": "world/nodxt/detail/expansion10/11xp_rocksdirtgrass0100.skin"
+    },
+    {
+      "id": 4854520,
+      "file": "world/nodxt/detail/expansion10/11xp_rocksdirtgrass01_4854520.blp"
+    },
+    {
+      "id": 4957186,
+      "file": "world/nodxt/detail/expansion10/11xp_rocksdirtgrass02.m2"
+    },
+    {
+      "id": 4957678,
+      "file": "world/nodxt/detail/expansion10/11xp_rocksdirtgrass0200.skin"
+    },
+    {
+      "id": 4854032,
+      "file": "world/nodxt/detail/expansion10/11xp_rocksgrass01.m2"
+    },
+    {
+      "id": 4854538,
+      "file": "world/nodxt/detail/expansion10/11xp_rocksgrass0100.skin"
+    },
+    {
+      "id": 4867038,
+      "file": "world/nodxt/detail/expansion10/11xp_rockssand01.m2"
+    },
+    {
+      "id": 4870892,
+      "file": "world/nodxt/detail/expansion10/11xp_rockssand0100.skin"
+    },
+    {
+      "id": 4867039,
+      "file": "world/nodxt/detail/expansion10/11xp_rockssand02.m2"
+    },
+    {
+      "id": 4870895,
+      "file": "world/nodxt/detail/expansion10/11xp_rockssand0200.skin"
+    },
+    {
+      "id": 4867040,
+      "file": "world/nodxt/detail/expansion10/11xp_rockssand03.m2"
+    },
+    {
+      "id": 4870897,
+      "file": "world/nodxt/detail/expansion10/11xp_rockssand0300.skin"
+    },
+    {
+      "id": 4867041,
+      "file": "world/nodxt/detail/expansion10/11xp_rockssand04.m2"
+    },
+    {
+      "id": 4870877,
+      "file": "world/nodxt/detail/expansion10/11xp_rockssand0400.skin"
+    },
+    {
+      "id": 4867042,
+      "file": "world/nodxt/detail/expansion10/11xp_rockssand05.m2"
+    },
+    {
+      "id": 4870872,
+      "file": "world/nodxt/detail/expansion10/11xp_rockssand0500.skin"
+    },
+    {
+      "id": 4867043,
+      "file": "world/nodxt/detail/expansion10/11xp_rockssand06.m2"
+    },
+    {
+      "id": 4870878,
+      "file": "world/nodxt/detail/expansion10/11xp_rockssand0600.skin"
+    },
+    {
+      "id": 4867044,
+      "file": "world/nodxt/detail/expansion10/11xp_rockssand07.m2"
+    },
+    {
+      "id": 4870879,
+      "file": "world/nodxt/detail/expansion10/11xp_rockssand0700.skin"
+    },
+    {
+      "id": 4867045,
+      "file": "world/nodxt/detail/expansion10/11xp_rockssand08.m2"
+    },
+    {
+      "id": 4870882,
+      "file": "world/nodxt/detail/expansion10/11xp_rockssand0800.skin"
+    },
+    {
+      "id": 4957187,
+      "file": "world/nodxt/detail/expansion10/11xp_rockssand09.m2"
+    },
+    {
+      "id": 4957718,
+      "file": "world/nodxt/detail/expansion10/11xp_rockssand0900.skin"
+    },
+    {
+      "id": 5198889,
+      "file": "world/nodxt/detail/expansion10/11xp_rootplant01.m2"
+    },
+    {
+      "id": 5199384,
+      "file": "world/nodxt/detail/expansion10/11xp_rootplant0100.skin"
+    },
+    {
+      "id": 5163737,
+      "file": "world/nodxt/detail/expansion10/11xp_roots01.m2"
+    },
+    {
+      "id": 5163823,
+      "file": "world/nodxt/detail/expansion10/11xp_roots0100.skin"
+    },
+    {
+      "id": 5144853,
+      "file": "world/nodxt/detail/expansion10/11xp_seastar01.m2"
+    },
+    {
+      "id": 5145307,
+      "file": "world/nodxt/detail/expansion10/11xp_seastar0100.skin"
+    },
+    {
+      "id": 5144854,
+      "file": "world/nodxt/detail/expansion10/11xp_seastar02.m2"
+    },
+    {
+      "id": 5145309,
+      "file": "world/nodxt/detail/expansion10/11xp_seastar0200.skin"
+    },
+    {
+      "id": 5144851,
+      "file": "world/nodxt/detail/expansion10/11xp_shell01.m2"
+    },
+    {
+      "id": 5145215,
+      "file": "world/nodxt/detail/expansion10/11xp_shell0100.skin"
+    },
+    {
+      "id": 5144855,
+      "file": "world/nodxt/detail/expansion10/11xp_shell02.m2"
+    },
+    {
+      "id": 5145302,
+      "file": "world/nodxt/detail/expansion10/11xp_shell0200.skin"
+    },
+    {
+      "id": 5144856,
+      "file": "world/nodxt/detail/expansion10/11xp_shell03.m2"
+    },
+    {
+      "id": 5145303,
+      "file": "world/nodxt/detail/expansion10/11xp_shell0300.skin"
+    },
+    {
+      "id": 5144858,
+      "file": "world/nodxt/detail/expansion10/11xp_shell04.m2"
+    },
+    {
+      "id": 5145273,
+      "file": "world/nodxt/detail/expansion10/11xp_shell0400.skin"
+    },
+    {
+      "id": 5144859,
+      "file": "world/nodxt/detail/expansion10/11xp_shell05.m2"
+    },
+    {
+      "id": 5145296,
+      "file": "world/nodxt/detail/expansion10/11xp_shell0500.skin"
+    },
+    {
+      "id": 5144860,
+      "file": "world/nodxt/detail/expansion10/11xp_shell06.m2"
+    },
+    {
+      "id": 5145298,
+      "file": "world/nodxt/detail/expansion10/11xp_shell0600.skin"
+    },
+    {
+      "id": 5144861,
+      "file": "world/nodxt/detail/expansion10/11xp_shell07.m2"
+    },
+    {
+      "id": 5145300,
+      "file": "world/nodxt/detail/expansion10/11xp_shell0700.skin"
+    },
+    {
+      "id": 5145270,
+      "file": "world/nodxt/detail/expansion10/11xp_shell07_5145270.blp"
+    },
+    {
+      "id": 5144852,
+      "file": "world/nodxt/detail/expansion10/11xp_shellgrass01.m2"
+    },
+    {
+      "id": 5145217,
+      "file": "world/nodxt/detail/expansion10/11xp_shellgrass0100.skin"
+    },
+    {
+      "id": 5144850,
+      "file": "world/nodxt/detail/expansion10/11xp_shellpile01.m2"
+    },
+    {
+      "id": 5145213,
+      "file": "world/nodxt/detail/expansion10/11xp_shellpile0100.skin"
+    },
+    {
+      "id": 5144857,
+      "file": "world/nodxt/detail/expansion10/11xp_shells01.m2"
+    },
+    {
+      "id": 5145308,
+      "file": "world/nodxt/detail/expansion10/11xp_shells0100.skin"
+    },
+    {
+      "id": 5145212,
+      "file": "world/nodxt/detail/expansion10/11xp_shells01_5145212.blp"
+    },
+    {
+      "id": 5567768,
+      "file": "world/nodxt/detail/expansion10/11xp_sunflower01.m2"
+    },
+    {
+      "id": 5568700,
+      "file": "world/nodxt/detail/expansion10/11xp_sunflower0100.skin"
+    },
+    {
+      "id": 5198890,
+      "file": "world/nodxt/detail/expansion10/11xp_waterdirt01.m2"
+    },
+    {
+      "id": 5199393,
+      "file": "world/nodxt/detail/expansion10/11xp_waterdirt0100.skin"
+    },
+    {
+      "id": 5163738,
+      "file": "world/nodxt/detail/expansion10/11xp_waterplants01.m2"
+    },
+    {
+      "id": 5163877,
+      "file": "world/nodxt/detail/expansion10/11xp_waterplants0100.skin"
+    },
+    {
+      "id": 5163739,
+      "file": "world/nodxt/detail/expansion10/11xp_waterplants02.m2"
+    },
+    {
+      "id": 5163869,
+      "file": "world/nodxt/detail/expansion10/11xp_waterplants0200.skin"
+    },
+    {
+      "id": 5163740,
+      "file": "world/nodxt/detail/expansion10/11xp_waterplants03.m2"
+    },
+    {
+      "id": 5163894,
+      "file": "world/nodxt/detail/expansion10/11xp_waterplants0300.skin"
+    },
+    {
+      "id": 5163741,
+      "file": "world/nodxt/detail/expansion10/11xp_waterplants04.m2"
+    },
+    {
+      "id": 5163882,
+      "file": "world/nodxt/detail/expansion10/11xp_waterplants0400.skin"
+    },
+    {
+      "id": 5163883,
+      "file": "world/nodxt/detail/expansion10/11xp_waterplants04_lod01.skin"
+    },
+    {
+      "id": 5163742,
+      "file": "world/nodxt/detail/expansion10/11xp_waterplants05.m2"
+    },
+    {
+      "id": 5163879,
+      "file": "world/nodxt/detail/expansion10/11xp_waterplants0500.skin"
+    },
+    {
+      "id": 5198891,
+      "file": "world/nodxt/detail/expansion10/11xp_waterplants06.m2"
+    },
+    {
+      "id": 5199399,
+      "file": "world/nodxt/detail/expansion10/11xp_waterplants0600.skin"
+    },
+    {
+      "id": 5198893,
+      "file": "world/nodxt/detail/expansion10/11xp_waterplants07.m2"
+    },
+    {
+      "id": 5199391,
+      "file": "world/nodxt/detail/expansion10/11xp_waterplants0700.skin"
+    },
+    {
+      "id": 4867031,
+      "file": "world/nodxt/detail/expansion10/11xp_weedsred01.m2"
+    },
+    {
+      "id": 4870891,
+      "file": "world/nodxt/detail/expansion10/11xp_weedsred0100.skin"
+    },
+    {
+      "id": 4867032,
+      "file": "world/nodxt/detail/expansion10/11xp_weedsred02.m2"
+    },
+    {
+      "id": 4870894,
+      "file": "world/nodxt/detail/expansion10/11xp_weedsred0200.skin"
+    }
+  ]
+}

@@ -1,0 +1,1963 @@
+{
+  "name": "Skyboxes",
+  "version": "MU-1",
+  "url": null,
+  "files": [
+    {
+      "id": 1308501,
+      "file": "dbfilesclient/LightSkybox.db2"
+    },
+    {
+      "id": 4094170,
+      "file": "environments/stars/10can_clearsky01.m2"
+    },
+    {
+      "id": 4420286,
+      "file": "environments/stars/10can_clearsky0100.skin"
+    },
+    {
+      "id": 4420281,
+      "file": "environments/stars/10can_clearsky01_4420281.blp"
+    },
+    {
+      "id": 4420284,
+      "file": "environments/stars/10can_clearsky01_4420284.blp"
+    },
+    {
+      "id": 4504846,
+      "file": "environments/stars/10can_clearsky01_4504846.blp"
+    },
+    {
+      "id": 4504848,
+      "file": "environments/stars/10can_clearsky01_4504848.blp"
+    },
+    {
+      "id": 4504851,
+      "file": "environments/stars/10can_clearsky01_4504851.blp"
+    },
+    {
+      "id": 4504854,
+      "file": "environments/stars/10can_clearsky01_4504854.blp"
+    },
+    {
+      "id": 4504856,
+      "file": "environments/stars/10can_clearsky01_4504856.blp"
+    },
+    {
+      "id": 4504858,
+      "file": "environments/stars/10can_clearsky01_4504858.blp"
+    },
+    {
+      "id": 4504860,
+      "file": "environments/stars/10can_clearsky01_4504860.blp"
+    },
+    {
+      "id": 4504862,
+      "file": "environments/stars/10can_clearsky01_4504862.blp"
+    },
+    {
+      "id": 4420287,
+      "file": "environments/stars/10can_clearsky01_lod01.skin"
+    },
+    {
+      "id": 4420289,
+      "file": "environments/stars/10can_clearsky01_lod02.skin"
+    },
+    {
+      "id": 4420291,
+      "file": "environments/stars/10can_clearsky01_lod03.skin"
+    },
+    {
+      "id": 4505901,
+      "file": "environments/stars/10can_volcanicsky01.m2"
+    },
+    {
+      "id": 4506009,
+      "file": "environments/stars/10can_volcanicsky0100.skin"
+    },
+    {
+      "id": 4505984,
+      "file": "environments/stars/10can_volcanicsky01_4505984.blp"
+    },
+    {
+      "id": 4505985,
+      "file": "environments/stars/10can_volcanicsky01_4505985.blp"
+    },
+    {
+      "id": 4505988,
+      "file": "environments/stars/10can_volcanicsky01_4505988.blp"
+    },
+    {
+      "id": 4505991,
+      "file": "environments/stars/10can_volcanicsky01_4505991.blp"
+    },
+    {
+      "id": 4505994,
+      "file": "environments/stars/10can_volcanicsky01_4505994.blp"
+    },
+    {
+      "id": 4505997,
+      "file": "environments/stars/10can_volcanicsky01_4505997.blp"
+    },
+    {
+      "id": 4506000,
+      "file": "environments/stars/10can_volcanicsky01_4506000.blp"
+    },
+    {
+      "id": 4506003,
+      "file": "environments/stars/10can_volcanicsky01_4506003.blp"
+    },
+    {
+      "id": 4506006,
+      "file": "environments/stars/10can_volcanicsky01_4506006.blp"
+    },
+    {
+      "id": 4506011,
+      "file": "environments/stars/10can_volcanicsky01_lod01.skin"
+    },
+    {
+      "id": 4506013,
+      "file": "environments/stars/10can_volcanicsky01_lod02.skin"
+    },
+    {
+      "id": 4506015,
+      "file": "environments/stars/10can_volcanicsky01_lod03.skin"
+    },
+    {
+      "id": 4686801,
+      "file": "environments/stars/10dks_arcanestormysky01.m2"
+    },
+    {
+      "id": 4687373,
+      "file": "environments/stars/10dks_arcanestormysky0100.skin"
+    },
+    {
+      "id": 4687377,
+      "file": "environments/stars/10dks_arcanestormysky01_lod01.skin"
+    },
+    {
+      "id": 4687379,
+      "file": "environments/stars/10dks_arcanestormysky01_lod02.skin"
+    },
+    {
+      "id": 4687381,
+      "file": "environments/stars/10dks_arcanestormysky01_lod03.skin"
+    },
+    {
+      "id": 4619773,
+      "file": "environments/stars/10drg_bronzedragonsky01.m2"
+    },
+    {
+      "id": 4620059,
+      "file": "environments/stars/10drg_bronzedragonsky0100.skin"
+    },
+    {
+      "id": 4609643,
+      "file": "environments/stars/10drg_bronzedragonsky01_4609643.blp"
+    },
+    {
+      "id": 4609644,
+      "file": "environments/stars/10drg_bronzedragonsky01_4609644.blp"
+    },
+    {
+      "id": 4609645,
+      "file": "environments/stars/10drg_bronzedragonsky01_4609645.blp"
+    },
+    {
+      "id": 4609646,
+      "file": "environments/stars/10drg_bronzedragonsky01_4609646.blp"
+    },
+    {
+      "id": 4609647,
+      "file": "environments/stars/10drg_bronzedragonsky01_4609647.blp"
+    },
+    {
+      "id": 4609649,
+      "file": "environments/stars/10drg_bronzedragonsky01_4609649.blp"
+    },
+    {
+      "id": 4609650,
+      "file": "environments/stars/10drg_bronzedragonsky01_4609650.blp"
+    },
+    {
+      "id": 4609652,
+      "file": "environments/stars/10drg_bronzedragonsky01_4609652.blp"
+    },
+    {
+      "id": 4609653,
+      "file": "environments/stars/10drg_bronzedragonsky01_4609653.blp"
+    },
+    {
+      "id": 4609654,
+      "file": "environments/stars/10drg_bronzedragonsky01_4609654.blp"
+    },
+    {
+      "id": 4609655,
+      "file": "environments/stars/10drg_bronzedragonsky01_4609655.blp"
+    },
+    {
+      "id": 4609656,
+      "file": "environments/stars/10drg_bronzedragonsky01_4609656.blp"
+    },
+    {
+      "id": 4609657,
+      "file": "environments/stars/10drg_bronzedragonsky01_4609657.blp"
+    },
+    {
+      "id": 4609658,
+      "file": "environments/stars/10drg_bronzedragonsky01_4609658.blp"
+    },
+    {
+      "id": 4620060,
+      "file": "environments/stars/10drg_bronzedragonsky01_lod01.skin"
+    },
+    {
+      "id": 4620061,
+      "file": "environments/stars/10drg_bronzedragonsky01_lod02.skin"
+    },
+    {
+      "id": 4620062,
+      "file": "environments/stars/10drg_bronzedragonsky01_lod03.skin"
+    },
+    {
+      "id": 4579925,
+      "file": "environments/stars/10drg_sky01.m2"
+    },
+    {
+      "id": 4609659,
+      "file": "environments/stars/10drg_sky0100.skin"
+    },
+    {
+      "id": 4616083,
+      "file": "environments/stars/10drg_sky01_4616083.blp"
+    },
+    {
+      "id": 4616084,
+      "file": "environments/stars/10drg_sky01_4616084.blp"
+    },
+    {
+      "id": 4616085,
+      "file": "environments/stars/10drg_sky01_4616085.blp"
+    },
+    {
+      "id": 4616086,
+      "file": "environments/stars/10drg_sky01_4616086.blp"
+    },
+    {
+      "id": 4616087,
+      "file": "environments/stars/10drg_sky01_4616087.blp"
+    },
+    {
+      "id": 4616088,
+      "file": "environments/stars/10drg_sky01_4616088.blp"
+    },
+    {
+      "id": 4616089,
+      "file": "environments/stars/10drg_sky01_4616089.blp"
+    },
+    {
+      "id": 4616090,
+      "file": "environments/stars/10drg_sky01_4616090.blp"
+    },
+    {
+      "id": 4616091,
+      "file": "environments/stars/10drg_sky01_4616091.blp"
+    },
+    {
+      "id": 4616092,
+      "file": "environments/stars/10drg_sky01_4616092.blp"
+    },
+    {
+      "id": 4616093,
+      "file": "environments/stars/10drg_sky01_4616093.blp"
+    },
+    {
+      "id": 4616094,
+      "file": "environments/stars/10drg_sky01_4616094.blp"
+    },
+    {
+      "id": 4616095,
+      "file": "environments/stars/10drg_sky01_4616095.blp"
+    },
+    {
+      "id": 4618391,
+      "file": "environments/stars/10drg_sky01_4618391.blp"
+    },
+    {
+      "id": 4618392,
+      "file": "environments/stars/10drg_sky01_4618392.blp"
+    },
+    {
+      "id": 4618393,
+      "file": "environments/stars/10drg_sky01_4618393.blp"
+    },
+    {
+      "id": 4618394,
+      "file": "environments/stars/10drg_sky01_4618394.blp"
+    },
+    {
+      "id": 4618395,
+      "file": "environments/stars/10drg_sky01_4618395.blp"
+    },
+    {
+      "id": 4609660,
+      "file": "environments/stars/10drg_sky01_lod01.skin"
+    },
+    {
+      "id": 4609661,
+      "file": "environments/stars/10drg_sky01_lod02.skin"
+    },
+    {
+      "id": 4609662,
+      "file": "environments/stars/10drg_sky01_lod03.skin"
+    },
+    {
+      "id": 4867903,
+      "file": "environments/stars/10du_blackdragonraidcosmicvoid01.m2"
+    },
+    {
+      "id": 4868273,
+      "file": "environments/stars/10du_blackdragonraidcosmicvoid0100.skin"
+    },
+    {
+      "id": 4868274,
+      "file": "environments/stars/10du_blackdragonraidcosmicvoid01_lod01.skin"
+    },
+    {
+      "id": 4868275,
+      "file": "environments/stars/10du_blackdragonraidcosmicvoid01_lod02.skin"
+    },
+    {
+      "id": 4868276,
+      "file": "environments/stars/10du_blackdragonraidcosmicvoid01_lod03.skin"
+    },
+    {
+      "id": 5355835,
+      "file": "environments/stars/10emd_flameskybox01.m2"
+    },
+    {
+      "id": 5355843,
+      "file": "environments/stars/10emd_flameskybox0100.skin"
+    },
+    {
+      "id": 3220725,
+      "file": "environments/stars/10emd_flameskybox01_3220725.blp"
+    },
+    {
+      "id": 5355841,
+      "file": "environments/stars/10emd_flameskybox01_5355841.blp"
+    },
+    {
+      "id": 5355842,
+      "file": "environments/stars/10emd_flameskybox01_5355842.blp"
+    },
+    {
+      "id": 5355844,
+      "file": "environments/stars/10emd_flameskybox01_lod01.skin"
+    },
+    {
+      "id": 5355845,
+      "file": "environments/stars/10emd_flameskybox01_lod02.skin"
+    },
+    {
+      "id": 5355846,
+      "file": "environments/stars/10emd_flameskybox01_lod03.skin"
+    },
+    {
+      "id": 5364085,
+      "file": "environments/stars/10emd_fyrakkbosssky01.m2"
+    },
+    {
+      "id": 5371150,
+      "file": "environments/stars/10emd_fyrakkbosssky0100.skin"
+    },
+    {
+      "id": 3204764,
+      "file": "environments/stars/10emd_fyrakkbosssky01_3204764.blp"
+    },
+    {
+      "id": 3204767,
+      "file": "environments/stars/10emd_fyrakkbosssky01_3204767.blp"
+    },
+    {
+      "id": 4609648,
+      "file": "environments/stars/10emd_fyrakkbosssky01_4609648.blp"
+    },
+    {
+      "id": 5346931,
+      "file": "environments/stars/10emd_fyrakkbosssky01_5346931.blp"
+    },
+    {
+      "id": 5346934,
+      "file": "environments/stars/10emd_fyrakkbosssky01_5346934.blp"
+    },
+    {
+      "id": 5371141,
+      "file": "environments/stars/10emd_fyrakkbosssky01_5371141.blp"
+    },
+    {
+      "id": 5371142,
+      "file": "environments/stars/10emd_fyrakkbosssky01_5371142.blp"
+    },
+    {
+      "id": 5371143,
+      "file": "environments/stars/10emd_fyrakkbosssky01_5371143.blp"
+    },
+    {
+      "id": 5371144,
+      "file": "environments/stars/10emd_fyrakkbosssky01_5371144.blp"
+    },
+    {
+      "id": 5371145,
+      "file": "environments/stars/10emd_fyrakkbosssky01_5371145.blp"
+    },
+    {
+      "id": 5371146,
+      "file": "environments/stars/10emd_fyrakkbosssky01_5371146.blp"
+    },
+    {
+      "id": 5371147,
+      "file": "environments/stars/10emd_fyrakkbosssky01_5371147.blp"
+    },
+    {
+      "id": 5371148,
+      "file": "environments/stars/10emd_fyrakkbosssky01_5371148.blp"
+    },
+    {
+      "id": 5371149,
+      "file": "environments/stars/10emd_fyrakkbosssky01_5371149.blp"
+    },
+    {
+      "id": 5372434,
+      "file": "environments/stars/10emd_fyrakkbosssky01_5372434.blp"
+    },
+    {
+      "id": 5371151,
+      "file": "environments/stars/10emd_fyrakkbosssky01_lod01.skin"
+    },
+    {
+      "id": 5371152,
+      "file": "environments/stars/10emd_fyrakkbosssky01_lod02.skin"
+    },
+    {
+      "id": 5371153,
+      "file": "environments/stars/10emd_fyrakkbosssky01_lod03.skin"
+    },
+    {
+      "id": 5355836,
+      "file": "environments/stars/10emd_purpleskybox01.m2"
+    },
+    {
+      "id": 5355873,
+      "file": "environments/stars/10emd_purpleskybox0100.skin"
+    },
+    {
+      "id": 3065879,
+      "file": "environments/stars/10emd_purpleskybox01_3065879.blp"
+    },
+    {
+      "id": 3065958,
+      "file": "environments/stars/10emd_purpleskybox01_3065958.blp"
+    },
+    {
+      "id": 3220719,
+      "file": "environments/stars/10emd_purpleskybox01_3220719.blp"
+    },
+    {
+      "id": 3220721,
+      "file": "environments/stars/10emd_purpleskybox01_3220721.blp"
+    },
+    {
+      "id": 4609651,
+      "file": "environments/stars/10emd_purpleskybox01_4609651.blp"
+    },
+    {
+      "id": 5346935,
+      "file": "environments/stars/10emd_purpleskybox01_5346935.blp"
+    },
+    {
+      "id": 5346936,
+      "file": "environments/stars/10emd_purpleskybox01_5346936.blp"
+    },
+    {
+      "id": 5346937,
+      "file": "environments/stars/10emd_purpleskybox01_5346937.blp"
+    },
+    {
+      "id": 5346938,
+      "file": "environments/stars/10emd_purpleskybox01_5346938.blp"
+    },
+    {
+      "id": 5346939,
+      "file": "environments/stars/10emd_purpleskybox01_5346939.blp"
+    },
+    {
+      "id": 5346940,
+      "file": "environments/stars/10emd_purpleskybox01_5346940.blp"
+    },
+    {
+      "id": 5355869,
+      "file": "environments/stars/10emd_purpleskybox01_5355869.blp"
+    },
+    {
+      "id": 5355870,
+      "file": "environments/stars/10emd_purpleskybox01_5355870.blp"
+    },
+    {
+      "id": 5355871,
+      "file": "environments/stars/10emd_purpleskybox01_5355871.blp"
+    },
+    {
+      "id": 5355872,
+      "file": "environments/stars/10emd_purpleskybox01_5355872.blp"
+    },
+    {
+      "id": 5355874,
+      "file": "environments/stars/10emd_purpleskybox01_lod01.skin"
+    },
+    {
+      "id": 5355875,
+      "file": "environments/stars/10emd_purpleskybox01_lod02.skin"
+    },
+    {
+      "id": 5355876,
+      "file": "environments/stars/10emd_purpleskybox01_lod03.skin"
+    },
+    {
+      "id": 5333222,
+      "file": "environments/stars/10emd_zoneskybox01.m2"
+    },
+    {
+      "id": 5346942,
+      "file": "environments/stars/10emd_zoneskybox0100.skin"
+    },
+    {
+      "id": 5346932,
+      "file": "environments/stars/10emd_zoneskybox01_5346932.blp"
+    },
+    {
+      "id": 5346933,
+      "file": "environments/stars/10emd_zoneskybox01_5346933.blp"
+    },
+    {
+      "id": 5346941,
+      "file": "environments/stars/10emd_zoneskybox01_5346941.blp"
+    },
+    {
+      "id": 5346943,
+      "file": "environments/stars/10emd_zoneskybox01_lod01.skin"
+    },
+    {
+      "id": 5346944,
+      "file": "environments/stars/10emd_zoneskybox01_lod02.skin"
+    },
+    {
+      "id": 5346945,
+      "file": "environments/stars/10emd_zoneskybox01_lod03.skin"
+    },
+    {
+      "id": 4620830,
+      "file": "environments/stars/10gsl_portalgrovesky01.m2"
+    },
+    {
+      "id": 4620966,
+      "file": "environments/stars/10gsl_portalgrovesky0100.skin"
+    },
+    {
+      "id": 4620958,
+      "file": "environments/stars/10gsl_portalgrovesky01_4620958.blp"
+    },
+    {
+      "id": 4620959,
+      "file": "environments/stars/10gsl_portalgrovesky01_4620959.blp"
+    },
+    {
+      "id": 4620960,
+      "file": "environments/stars/10gsl_portalgrovesky01_4620960.blp"
+    },
+    {
+      "id": 4620961,
+      "file": "environments/stars/10gsl_portalgrovesky01_4620961.blp"
+    },
+    {
+      "id": 4620962,
+      "file": "environments/stars/10gsl_portalgrovesky01_4620962.blp"
+    },
+    {
+      "id": 4620963,
+      "file": "environments/stars/10gsl_portalgrovesky01_4620963.blp"
+    },
+    {
+      "id": 4620964,
+      "file": "environments/stars/10gsl_portalgrovesky01_4620964.blp"
+    },
+    {
+      "id": 4620965,
+      "file": "environments/stars/10gsl_portalgrovesky01_4620965.blp"
+    },
+    {
+      "id": 4620967,
+      "file": "environments/stars/10gsl_portalgrovesky01_lod01.skin"
+    },
+    {
+      "id": 4620968,
+      "file": "environments/stars/10gsl_portalgrovesky01_lod02.skin"
+    },
+    {
+      "id": 4620969,
+      "file": "environments/stars/10gsl_portalgrovesky01_lod03.skin"
+    },
+    {
+      "id": 4571842,
+      "file": "environments/stars/10gsl_sky01.m2"
+    },
+    {
+      "id": 4575018,
+      "file": "environments/stars/10gsl_sky0100.skin"
+    },
+    {
+      "id": 4574996,
+      "file": "environments/stars/10gsl_sky01_4574996.blp"
+    },
+    {
+      "id": 4574997,
+      "file": "environments/stars/10gsl_sky01_4574997.blp"
+    },
+    {
+      "id": 4574998,
+      "file": "environments/stars/10gsl_sky01_4574998.blp"
+    },
+    {
+      "id": 4574999,
+      "file": "environments/stars/10gsl_sky01_4574999.blp"
+    },
+    {
+      "id": 4575000,
+      "file": "environments/stars/10gsl_sky01_4575000.blp"
+    },
+    {
+      "id": 4575001,
+      "file": "environments/stars/10gsl_sky01_4575001.blp"
+    },
+    {
+      "id": 4575002,
+      "file": "environments/stars/10gsl_sky01_4575002.blp"
+    },
+    {
+      "id": 4575003,
+      "file": "environments/stars/10gsl_sky01_4575003.blp"
+    },
+    {
+      "id": 4575004,
+      "file": "environments/stars/10gsl_sky01_4575004.blp"
+    },
+    {
+      "id": 4575005,
+      "file": "environments/stars/10gsl_sky01_4575005.blp"
+    },
+    {
+      "id": 4575006,
+      "file": "environments/stars/10gsl_sky01_4575006.blp"
+    },
+    {
+      "id": 4575007,
+      "file": "environments/stars/10gsl_sky01_4575007.blp"
+    },
+    {
+      "id": 4575008,
+      "file": "environments/stars/10gsl_sky01_4575008.blp"
+    },
+    {
+      "id": 4575009,
+      "file": "environments/stars/10gsl_sky01_4575009.blp"
+    },
+    {
+      "id": 4575010,
+      "file": "environments/stars/10gsl_sky01_4575010.blp"
+    },
+    {
+      "id": 4575011,
+      "file": "environments/stars/10gsl_sky01_4575011.blp"
+    },
+    {
+      "id": 4575012,
+      "file": "environments/stars/10gsl_sky01_4575012.blp"
+    },
+    {
+      "id": 4575013,
+      "file": "environments/stars/10gsl_sky01_4575013.blp"
+    },
+    {
+      "id": 4575014,
+      "file": "environments/stars/10gsl_sky01_4575014.blp"
+    },
+    {
+      "id": 4575015,
+      "file": "environments/stars/10gsl_sky01_4575015.blp"
+    },
+    {
+      "id": 4575016,
+      "file": "environments/stars/10gsl_sky01_4575016.blp"
+    },
+    {
+      "id": 4575017,
+      "file": "environments/stars/10gsl_sky01_4575017.blp"
+    },
+    {
+      "id": 4575019,
+      "file": "environments/stars/10gsl_sky01_lod01.skin"
+    },
+    {
+      "id": 4575020,
+      "file": "environments/stars/10gsl_sky01_lod02.skin"
+    },
+    {
+      "id": 4575021,
+      "file": "environments/stars/10gsl_sky01_lod03.skin"
+    },
+    {
+      "id": 4495239,
+      "file": "environments/stars/10hgl_forestsky01.m2"
+    },
+    {
+      "id": 4501149,
+      "file": "environments/stars/10hgl_forestsky0100.skin"
+    },
+    {
+      "id": 4501144,
+      "file": "environments/stars/10hgl_forestsky01_4501144.blp"
+    },
+    {
+      "id": 4501147,
+      "file": "environments/stars/10hgl_forestsky01_4501147.blp"
+    },
+    {
+      "id": 4501148,
+      "file": "environments/stars/10hgl_forestsky01_4501148.blp"
+    },
+    {
+      "id": 4503009,
+      "file": "environments/stars/10hgl_forestsky01_4503009.blp"
+    },
+    {
+      "id": 4501150,
+      "file": "environments/stars/10hgl_forestsky01_lod01.skin"
+    },
+    {
+      "id": 4501151,
+      "file": "environments/stars/10hgl_forestsky01_lod02.skin"
+    },
+    {
+      "id": 4501152,
+      "file": "environments/stars/10hgl_forestsky01_lod03.skin"
+    },
+    {
+      "id": 4421508,
+      "file": "environments/stars/10hgl_highlandssky01.m2"
+    },
+    {
+      "id": 4438858,
+      "file": "environments/stars/10hgl_highlandssky0100.skin"
+    },
+    {
+      "id": 4438840,
+      "file": "environments/stars/10hgl_highlandssky01_4438840.blp"
+    },
+    {
+      "id": 4438844,
+      "file": "environments/stars/10hgl_highlandssky01_4438844.blp"
+    },
+    {
+      "id": 4438846,
+      "file": "environments/stars/10hgl_highlandssky01_4438846.blp"
+    },
+    {
+      "id": 4438848,
+      "file": "environments/stars/10hgl_highlandssky01_4438848.blp"
+    },
+    {
+      "id": 4438853,
+      "file": "environments/stars/10hgl_highlandssky01_4438853.blp"
+    },
+    {
+      "id": 4438855,
+      "file": "environments/stars/10hgl_highlandssky01_4438855.blp"
+    },
+    {
+      "id": 4493537,
+      "file": "environments/stars/10hgl_highlandssky01_4493537.blp"
+    },
+    {
+      "id": 4496380,
+      "file": "environments/stars/10hgl_highlandssky01_4496380.blp"
+    },
+    {
+      "id": 4496384,
+      "file": "environments/stars/10hgl_highlandssky01_4496384.blp"
+    },
+    {
+      "id": 4496385,
+      "file": "environments/stars/10hgl_highlandssky01_4496385.blp"
+    },
+    {
+      "id": 4496386,
+      "file": "environments/stars/10hgl_highlandssky01_4496386.blp"
+    },
+    {
+      "id": 4496387,
+      "file": "environments/stars/10hgl_highlandssky01_4496387.blp"
+    },
+    {
+      "id": 4496391,
+      "file": "environments/stars/10hgl_highlandssky01_4496391.blp"
+    },
+    {
+      "id": 4496395,
+      "file": "environments/stars/10hgl_highlandssky01_4496395.blp"
+    },
+    {
+      "id": 4496399,
+      "file": "environments/stars/10hgl_highlandssky01_4496399.blp"
+    },
+    {
+      "id": 4496403,
+      "file": "environments/stars/10hgl_highlandssky01_4496403.blp"
+    },
+    {
+      "id": 4496407,
+      "file": "environments/stars/10hgl_highlandssky01_4496407.blp"
+    },
+    {
+      "id": 4496411,
+      "file": "environments/stars/10hgl_highlandssky01_4496411.blp"
+    },
+    {
+      "id": 4496415,
+      "file": "environments/stars/10hgl_highlandssky01_4496415.blp"
+    },
+    {
+      "id": 4496419,
+      "file": "environments/stars/10hgl_highlandssky01_4496419.blp"
+    },
+    {
+      "id": 4496423,
+      "file": "environments/stars/10hgl_highlandssky01_4496423.blp"
+    },
+    {
+      "id": 4438861,
+      "file": "environments/stars/10hgl_highlandssky01_lod01.skin"
+    },
+    {
+      "id": 4438864,
+      "file": "environments/stars/10hgl_highlandssky01_lod02.skin"
+    },
+    {
+      "id": 4438867,
+      "file": "environments/stars/10hgl_highlandssky01_lod03.skin"
+    },
+    {
+      "id": 4495238,
+      "file": "environments/stars/10hgl_tundrasky01.m2"
+    },
+    {
+      "id": 4496923,
+      "file": "environments/stars/10hgl_tundrasky0100.skin"
+    },
+    {
+      "id": 4438842,
+      "file": "environments/stars/10hgl_tundrasky01_4438842.blp"
+    },
+    {
+      "id": 4438851,
+      "file": "environments/stars/10hgl_tundrasky01_4438851.blp"
+    },
+    {
+      "id": 4508375,
+      "file": "environments/stars/10hgl_tundrasky01_4508375.blp"
+    },
+    {
+      "id": 4508380,
+      "file": "environments/stars/10hgl_tundrasky01_4508380.blp"
+    },
+    {
+      "id": 4508385,
+      "file": "environments/stars/10hgl_tundrasky01_4508385.blp"
+    },
+    {
+      "id": 4508390,
+      "file": "environments/stars/10hgl_tundrasky01_4508390.blp"
+    },
+    {
+      "id": 4508395,
+      "file": "environments/stars/10hgl_tundrasky01_4508395.blp"
+    },
+    {
+      "id": 4508400,
+      "file": "environments/stars/10hgl_tundrasky01_4508400.blp"
+    },
+    {
+      "id": 4508405,
+      "file": "environments/stars/10hgl_tundrasky01_4508405.blp"
+    },
+    {
+      "id": 4508410,
+      "file": "environments/stars/10hgl_tundrasky01_4508410.blp"
+    },
+    {
+      "id": 4508415,
+      "file": "environments/stars/10hgl_tundrasky01_4508415.blp"
+    },
+    {
+      "id": 4508420,
+      "file": "environments/stars/10hgl_tundrasky01_4508420.blp"
+    },
+    {
+      "id": 4508425,
+      "file": "environments/stars/10hgl_tundrasky01_4508425.blp"
+    },
+    {
+      "id": 4508430,
+      "file": "environments/stars/10hgl_tundrasky01_4508430.blp"
+    },
+    {
+      "id": 4508435,
+      "file": "environments/stars/10hgl_tundrasky01_4508435.blp"
+    },
+    {
+      "id": 4508440,
+      "file": "environments/stars/10hgl_tundrasky01_4508440.blp"
+    },
+    {
+      "id": 4508445,
+      "file": "environments/stars/10hgl_tundrasky01_4508445.blp"
+    },
+    {
+      "id": 4508450,
+      "file": "environments/stars/10hgl_tundrasky01_4508450.blp"
+    },
+    {
+      "id": 4508455,
+      "file": "environments/stars/10hgl_tundrasky01_4508455.blp"
+    },
+    {
+      "id": 4508460,
+      "file": "environments/stars/10hgl_tundrasky01_4508460.blp"
+    },
+    {
+      "id": 4508465,
+      "file": "environments/stars/10hgl_tundrasky01_4508465.blp"
+    },
+    {
+      "id": 4508470,
+      "file": "environments/stars/10hgl_tundrasky01_4508470.blp"
+    },
+    {
+      "id": 4508475,
+      "file": "environments/stars/10hgl_tundrasky01_4508475.blp"
+    },
+    {
+      "id": 4496924,
+      "file": "environments/stars/10hgl_tundrasky01_lod01.skin"
+    },
+    {
+      "id": 4496925,
+      "file": "environments/stars/10hgl_tundrasky01_lod02.skin"
+    },
+    {
+      "id": 4496929,
+      "file": "environments/stars/10hgl_tundrasky01_lod03.skin"
+    },
+    {
+      "id": 5342965,
+      "file": "environments/stars/10xp_argusnetherskysurface01.m2"
+    },
+    {
+      "id": 5343014,
+      "file": "environments/stars/10xp_argusnetherskysurface0100.skin"
+    },
+    {
+      "id": 5343015,
+      "file": "environments/stars/10xp_argusnetherskysurface01_lod01.skin"
+    },
+    {
+      "id": 5343016,
+      "file": "environments/stars/10xp_argusnetherskysurface01_lod02.skin"
+    },
+    {
+      "id": 5343017,
+      "file": "environments/stars/10xp_argusnetherskysurface01_lod03.skin"
+    },
+    {
+      "id": 5770832,
+      "file": "environments/stars/10xp_cloudysky01.m2"
+    },
+    {
+      "id": 5770909,
+      "file": "environments/stars/10xp_cloudysky0100.skin"
+    },
+    {
+      "id": 5770910,
+      "file": "environments/stars/10xp_cloudysky01_lod01.skin"
+    },
+    {
+      "id": 5770911,
+      "file": "environments/stars/10xp_cloudysky01_lod02.skin"
+    },
+    {
+      "id": 5770912,
+      "file": "environments/stars/10xp_cloudysky01_lod03.skin"
+    },
+    {
+      "id": 4662293,
+      "file": "environments/stars/10xp_grasslandsstormsky01.m2"
+    },
+    {
+      "id": 4667406,
+      "file": "environments/stars/10xp_grasslandsstormsky0100.skin"
+    },
+    {
+      "id": 4667371,
+      "file": "environments/stars/10xp_grasslandsstormsky01_4667371.blp"
+    },
+    {
+      "id": 4667372,
+      "file": "environments/stars/10xp_grasslandsstormsky01_4667372.blp"
+    },
+    {
+      "id": 4667373,
+      "file": "environments/stars/10xp_grasslandsstormsky01_4667373.blp"
+    },
+    {
+      "id": 4667374,
+      "file": "environments/stars/10xp_grasslandsstormsky01_4667374.blp"
+    },
+    {
+      "id": 4667375,
+      "file": "environments/stars/10xp_grasslandsstormsky01_4667375.blp"
+    },
+    {
+      "id": 4667377,
+      "file": "environments/stars/10xp_grasslandsstormsky01_4667377.blp"
+    },
+    {
+      "id": 4667378,
+      "file": "environments/stars/10xp_grasslandsstormsky01_4667378.blp"
+    },
+    {
+      "id": 4667379,
+      "file": "environments/stars/10xp_grasslandsstormsky01_4667379.blp"
+    },
+    {
+      "id": 4667380,
+      "file": "environments/stars/10xp_grasslandsstormsky01_4667380.blp"
+    },
+    {
+      "id": 4667381,
+      "file": "environments/stars/10xp_grasslandsstormsky01_4667381.blp"
+    },
+    {
+      "id": 4667382,
+      "file": "environments/stars/10xp_grasslandsstormsky01_4667382.blp"
+    },
+    {
+      "id": 4667383,
+      "file": "environments/stars/10xp_grasslandsstormsky01_4667383.blp"
+    },
+    {
+      "id": 4667384,
+      "file": "environments/stars/10xp_grasslandsstormsky01_4667384.blp"
+    },
+    {
+      "id": 4667386,
+      "file": "environments/stars/10xp_grasslandsstormsky01_4667386.blp"
+    },
+    {
+      "id": 4667388,
+      "file": "environments/stars/10xp_grasslandsstormsky01_4667388.blp"
+    },
+    {
+      "id": 4667390,
+      "file": "environments/stars/10xp_grasslandsstormsky01_4667390.blp"
+    },
+    {
+      "id": 4667392,
+      "file": "environments/stars/10xp_grasslandsstormsky01_4667392.blp"
+    },
+    {
+      "id": 4667394,
+      "file": "environments/stars/10xp_grasslandsstormsky01_4667394.blp"
+    },
+    {
+      "id": 4667396,
+      "file": "environments/stars/10xp_grasslandsstormsky01_4667396.blp"
+    },
+    {
+      "id": 4667398,
+      "file": "environments/stars/10xp_grasslandsstormsky01_4667398.blp"
+    },
+    {
+      "id": 4667400,
+      "file": "environments/stars/10xp_grasslandsstormsky01_4667400.blp"
+    },
+    {
+      "id": 4667402,
+      "file": "environments/stars/10xp_grasslandsstormsky01_4667402.blp"
+    },
+    {
+      "id": 4667404,
+      "file": "environments/stars/10xp_grasslandsstormsky01_4667404.blp"
+    },
+    {
+      "id": 4667408,
+      "file": "environments/stars/10xp_grasslandsstormsky01_lod01.skin"
+    },
+    {
+      "id": 4667409,
+      "file": "environments/stars/10xp_grasslandsstormsky01_lod02.skin"
+    },
+    {
+      "id": 4667410,
+      "file": "environments/stars/10xp_grasslandsstormsky01_lod03.skin"
+    },
+    {
+      "id": 4867934,
+      "file": "environments/stars/10xp_nokhudoffensivesky01.m2"
+    },
+    {
+      "id": 4867936,
+      "file": "environments/stars/10xp_nokhudoffensivesky0100.skin"
+    },
+    {
+      "id": 4867939,
+      "file": "environments/stars/10xp_nokhudoffensivesky01_lod01.skin"
+    },
+    {
+      "id": 4867942,
+      "file": "environments/stars/10xp_nokhudoffensivesky01_lod02.skin"
+    },
+    {
+      "id": 4867943,
+      "file": "environments/stars/10xp_nokhudoffensivesky01_lod03.skin"
+    },
+    {
+      "id": 4691066,
+      "file": "environments/stars/10xp_primalisteventsky01.m2"
+    },
+    {
+      "id": 4691150,
+      "file": "environments/stars/10xp_primalisteventsky0100.skin"
+    },
+    {
+      "id": 4691148,
+      "file": "environments/stars/10xp_primalisteventsky01_4691148.blp"
+    },
+    {
+      "id": 4691149,
+      "file": "environments/stars/10xp_primalisteventsky01_4691149.blp"
+    },
+    {
+      "id": 4691151,
+      "file": "environments/stars/10xp_primalisteventsky01_lod01.skin"
+    },
+    {
+      "id": 4691152,
+      "file": "environments/stars/10xp_primalisteventsky01_lod02.skin"
+    },
+    {
+      "id": 4691153,
+      "file": "environments/stars/10xp_primalisteventsky01_lod03.skin"
+    },
+    {
+      "id": 4905369,
+      "file": "environments/stars/10xp_snowstormsky01.m2"
+    },
+    {
+      "id": 4905385,
+      "file": "environments/stars/10xp_snowstormsky0100.skin"
+    },
+    {
+      "id": 3676211,
+      "file": "environments/stars/10xp_snowstormsky01_3676211.blp"
+    },
+    {
+      "id": 3676214,
+      "file": "environments/stars/10xp_snowstormsky01_3676214.blp"
+    },
+    {
+      "id": 4905379,
+      "file": "environments/stars/10xp_snowstormsky01_4905379.blp"
+    },
+    {
+      "id": 4905382,
+      "file": "environments/stars/10xp_snowstormsky01_4905382.blp"
+    },
+    {
+      "id": 4905383,
+      "file": "environments/stars/10xp_snowstormsky01_4905383.blp"
+    },
+    {
+      "id": 4905384,
+      "file": "environments/stars/10xp_snowstormsky01_4905384.blp"
+    },
+    {
+      "id": 4905388,
+      "file": "environments/stars/10xp_snowstormsky01_lod01.skin"
+    },
+    {
+      "id": 4905389,
+      "file": "environments/stars/10xp_snowstormsky01_lod02.skin"
+    },
+    {
+      "id": 4905392,
+      "file": "environments/stars/10xp_snowstormsky01_lod03.skin"
+    },
+    {
+      "id": 4662294,
+      "file": "environments/stars/10xp_stormsky01.m2"
+    },
+    {
+      "id": 4669769,
+      "file": "environments/stars/10xp_stormsky0100.skin"
+    },
+    {
+      "id": 4669774,
+      "file": "environments/stars/10xp_stormsky01_lod01.skin"
+    },
+    {
+      "id": 4669777,
+      "file": "environments/stars/10xp_stormsky01_lod02.skin"
+    },
+    {
+      "id": 4669778,
+      "file": "environments/stars/10xp_stormsky01_lod03.skin"
+    },
+    {
+      "id": 4909057,
+      "file": "environments/stars/10xp_timewaysky01.m2"
+    },
+    {
+      "id": 4911275,
+      "file": "environments/stars/10xp_timewaysky0100.skin"
+    },
+    {
+      "id": 5145882,
+      "file": "environments/stars/10xp_timewaysky01_5145882.blp"
+    },
+    {
+      "id": 5145885,
+      "file": "environments/stars/10xp_timewaysky01_5145885.blp"
+    },
+    {
+      "id": 5145889,
+      "file": "environments/stars/10xp_timewaysky01_5145889.blp"
+    },
+    {
+      "id": 5145893,
+      "file": "environments/stars/10xp_timewaysky01_5145893.blp"
+    },
+    {
+      "id": 5145897,
+      "file": "environments/stars/10xp_timewaysky01_5145897.blp"
+    },
+    {
+      "id": 5145901,
+      "file": "environments/stars/10xp_timewaysky01_5145901.blp"
+    },
+    {
+      "id": 5145905,
+      "file": "environments/stars/10xp_timewaysky01_5145905.blp"
+    },
+    {
+      "id": 5145909,
+      "file": "environments/stars/10xp_timewaysky01_5145909.blp"
+    },
+    {
+      "id": 5145913,
+      "file": "environments/stars/10xp_timewaysky01_5145913.blp"
+    },
+    {
+      "id": 5145921,
+      "file": "environments/stars/10xp_timewaysky01_5145921.blp"
+    },
+    {
+      "id": 5185073,
+      "file": "environments/stars/10xp_timewaysky01_5185073.blp"
+    },
+    {
+      "id": 5204998,
+      "file": "environments/stars/10xp_timewaysky01_5204998.blp"
+    },
+    {
+      "id": 5205000,
+      "file": "environments/stars/10xp_timewaysky01_5205000.blp"
+    },
+    {
+      "id": 5205002,
+      "file": "environments/stars/10xp_timewaysky01_5205002.blp"
+    },
+    {
+      "id": 4911276,
+      "file": "environments/stars/10xp_timewaysky01_lod01.skin"
+    },
+    {
+      "id": 4911277,
+      "file": "environments/stars/10xp_timewaysky01_lod02.skin"
+    },
+    {
+      "id": 4911278,
+      "file": "environments/stars/10xp_timewaysky01_lod03.skin"
+    },
+    {
+      "id": 5369135,
+      "file": "environments/stars/11at_arathor_livingworldsky01.m2"
+    },
+    {
+      "id": 5370423,
+      "file": "environments/stars/11at_arathor_livingworldsky0100.skin"
+    },
+    {
+      "id": 5370400,
+      "file": "environments/stars/11at_arathor_livingworldsky01_5370400.blp"
+    },
+    {
+      "id": 5370407,
+      "file": "environments/stars/11at_arathor_livingworldsky01_5370407.blp"
+    },
+    {
+      "id": 5370410,
+      "file": "environments/stars/11at_arathor_livingworldsky01_5370410.blp"
+    },
+    {
+      "id": 5370418,
+      "file": "environments/stars/11at_arathor_livingworldsky01_5370418.blp"
+    },
+    {
+      "id": 5386406,
+      "file": "environments/stars/11at_arathor_livingworldsky01_5386406.blp"
+    },
+    {
+      "id": 5386407,
+      "file": "environments/stars/11at_arathor_livingworldsky01_5386407.blp"
+    },
+    {
+      "id": 5568219,
+      "file": "environments/stars/11at_arathor_livingworldsky01_5568219.blp"
+    },
+    {
+      "id": 5568224,
+      "file": "environments/stars/11at_arathor_livingworldsky01_5568224.blp"
+    },
+    {
+      "id": 5370424,
+      "file": "environments/stars/11at_arathor_livingworldsky01_lod01.skin"
+    },
+    {
+      "id": 5370426,
+      "file": "environments/stars/11at_arathor_livingworldsky01_lod02.skin"
+    },
+    {
+      "id": 5370429,
+      "file": "environments/stars/11at_arathor_livingworldsky01_lod03.skin"
+    },
+    {
+      "id": 5412968,
+      "file": "environments/stars/11xp_cloudsky01.m2"
+    },
+    {
+      "id": 5412970,
+      "file": "environments/stars/11xp_cloudsky0100.skin"
+    },
+    {
+      "id": 5858107,
+      "file": "environments/stars/11xp_cloudsky01_5858107.blp"
+    },
+    {
+      "id": 5858108,
+      "file": "environments/stars/11xp_cloudsky01_5858108.blp"
+    },
+    {
+      "id": 5858109,
+      "file": "environments/stars/11xp_cloudsky01_5858109.blp"
+    },
+    {
+      "id": 5858110,
+      "file": "environments/stars/11xp_cloudsky01_5858110.blp"
+    },
+    {
+      "id": 5858111,
+      "file": "environments/stars/11xp_cloudsky01_5858111.blp"
+    },
+    {
+      "id": 5858112,
+      "file": "environments/stars/11xp_cloudsky01_5858112.blp"
+    },
+    {
+      "id": 5858113,
+      "file": "environments/stars/11xp_cloudsky01_5858113.blp"
+    },
+    {
+      "id": 5858114,
+      "file": "environments/stars/11xp_cloudsky01_5858114.blp"
+    },
+    {
+      "id": 5858115,
+      "file": "environments/stars/11xp_cloudsky01_5858115.blp"
+    },
+    {
+      "id": 5858116,
+      "file": "environments/stars/11xp_cloudsky01_5858116.blp"
+    },
+    {
+      "id": 5858117,
+      "file": "environments/stars/11xp_cloudsky01_5858117.blp"
+    },
+    {
+      "id": 5858118,
+      "file": "environments/stars/11xp_cloudsky01_5858118.blp"
+    },
+    {
+      "id": 5858119,
+      "file": "environments/stars/11xp_cloudsky01_5858119.blp"
+    },
+    {
+      "id": 5858120,
+      "file": "environments/stars/11xp_cloudsky01_5858120.blp"
+    },
+    {
+      "id": 5858121,
+      "file": "environments/stars/11xp_cloudsky01_5858121.blp"
+    },
+    {
+      "id": 5858122,
+      "file": "environments/stars/11xp_cloudsky01_5858122.blp"
+    },
+    {
+      "id": 5858123,
+      "file": "environments/stars/11xp_cloudsky01_5858123.blp"
+    },
+    {
+      "id": 5858124,
+      "file": "environments/stars/11xp_cloudsky01_5858124.blp"
+    },
+    {
+      "id": 5858125,
+      "file": "environments/stars/11xp_cloudsky01_5858125.blp"
+    },
+    {
+      "id": 5858126,
+      "file": "environments/stars/11xp_cloudsky01_5858126.blp"
+    },
+    {
+      "id": 5858127,
+      "file": "environments/stars/11xp_cloudsky01_5858127.blp"
+    },
+    {
+      "id": 5858128,
+      "file": "environments/stars/11xp_cloudsky01_5858128.blp"
+    },
+    {
+      "id": 5858129,
+      "file": "environments/stars/11xp_cloudsky01_5858129.blp"
+    },
+    {
+      "id": 5858130,
+      "file": "environments/stars/11xp_cloudsky01_5858130.blp"
+    },
+    {
+      "id": 5858131,
+      "file": "environments/stars/11xp_cloudsky01_5858131.blp"
+    },
+    {
+      "id": 5858132,
+      "file": "environments/stars/11xp_cloudsky01_5858132.blp"
+    },
+    {
+      "id": 5858133,
+      "file": "environments/stars/11xp_cloudsky01_5858133.blp"
+    },
+    {
+      "id": 5858134,
+      "file": "environments/stars/11xp_cloudsky01_5858134.blp"
+    },
+    {
+      "id": 5858135,
+      "file": "environments/stars/11xp_cloudsky01_5858135.blp"
+    },
+    {
+      "id": 5858136,
+      "file": "environments/stars/11xp_cloudsky01_5858136.blp"
+    },
+    {
+      "id": 5858137,
+      "file": "environments/stars/11xp_cloudsky01_5858137.blp"
+    },
+    {
+      "id": 5858138,
+      "file": "environments/stars/11xp_cloudsky01_5858138.blp"
+    },
+    {
+      "id": 5858139,
+      "file": "environments/stars/11xp_cloudsky01_5858139.blp"
+    },
+    {
+      "id": 5412975,
+      "file": "environments/stars/11xp_cloudsky01_lod01.skin"
+    },
+    {
+      "id": 5412977,
+      "file": "environments/stars/11xp_cloudsky01_lod02.skin"
+    },
+    {
+      "id": 5412981,
+      "file": "environments/stars/11xp_cloudsky01_lod03.skin"
+    },
+    {
+      "id": 5519245,
+      "file": "environments/stars/11xp_purplesky01.m2"
+    },
+    {
+      "id": 5519247,
+      "file": "environments/stars/11xp_purplesky0100.skin"
+    },
+    {
+      "id": 5370404,
+      "file": "environments/stars/11xp_purplesky01_5370404.blp"
+    },
+    {
+      "id": 5370415,
+      "file": "environments/stars/11xp_purplesky01_5370415.blp"
+    },
+    {
+      "id": 5523124,
+      "file": "environments/stars/11xp_purplesky01_5523124.blp"
+    },
+    {
+      "id": 5523125,
+      "file": "environments/stars/11xp_purplesky01_5523125.blp"
+    },
+    {
+      "id": 5523128,
+      "file": "environments/stars/11xp_purplesky01_5523128.blp"
+    },
+    {
+      "id": 5523131,
+      "file": "environments/stars/11xp_purplesky01_5523131.blp"
+    },
+    {
+      "id": 5523134,
+      "file": "environments/stars/11xp_purplesky01_5523134.blp"
+    },
+    {
+      "id": 5523137,
+      "file": "environments/stars/11xp_purplesky01_5523137.blp"
+    },
+    {
+      "id": 5519251,
+      "file": "environments/stars/11xp_purplesky01_lod01.skin"
+    },
+    {
+      "id": 5519254,
+      "file": "environments/stars/11xp_purplesky01_lod02.skin"
+    },
+    {
+      "id": 5519256,
+      "file": "environments/stars/11xp_purplesky01_lod03.skin"
+    },
+    {
+      "id": 5854980,
+      "file": "environments/stars/11xp_talador_clouds03.m2"
+    },
+    {
+      "id": 5855124,
+      "file": "environments/stars/11xp_talador_clouds0300.skin"
+    },
+    {
+      "id": 5855125,
+      "file": "environments/stars/11xp_talador_clouds03_lod01.skin"
+    },
+    {
+      "id": 5855126,
+      "file": "environments/stars/11xp_talador_clouds03_lod02.skin"
+    },
+    {
+      "id": 5855127,
+      "file": "environments/stars/11xp_talador_clouds03_lod03.skin"
+    },
+    {
+      "id": 5457134,
+      "file": "environments/stars/11xp_voidsky01.m2"
+    },
+    {
+      "id": 5462574,
+      "file": "environments/stars/11xp_voidsky0100.skin"
+    },
+    {
+      "id": 5689134,
+      "file": "environments/stars/11xp_voidsky01_5689134.blp"
+    },
+    {
+      "id": 5689135,
+      "file": "environments/stars/11xp_voidsky01_5689135.blp"
+    },
+    {
+      "id": 5689137,
+      "file": "environments/stars/11xp_voidsky01_5689137.blp"
+    },
+    {
+      "id": 5689138,
+      "file": "environments/stars/11xp_voidsky01_5689138.blp"
+    },
+    {
+      "id": 5733766,
+      "file": "environments/stars/11xp_voidsky01_5733766.blp"
+    },
+    {
+      "id": 5733768,
+      "file": "environments/stars/11xp_voidsky01_5733768.blp"
+    },
+    {
+      "id": 5733772,
+      "file": "environments/stars/11xp_voidsky01_5733772.blp"
+    },
+    {
+      "id": 5733774,
+      "file": "environments/stars/11xp_voidsky01_5733774.blp"
+    },
+    {
+      "id": 5462575,
+      "file": "environments/stars/11xp_voidsky01_lod01.skin"
+    },
+    {
+      "id": 5462576,
+      "file": "environments/stars/11xp_voidsky01_lod02.skin"
+    },
+    {
+      "id": 5462578,
+      "file": "environments/stars/11xp_voidsky01_lod03.skin"
+    },
+    {
+      "id": 5457132,
+      "file": "environments/stars/11xp_voidsky02.m2"
+    },
+    {
+      "id": 5457202,
+      "file": "environments/stars/11xp_voidsky0200.skin"
+    },
+    {
+      "id": 5689059,
+      "file": "environments/stars/11xp_voidsky02_5689059.blp"
+    },
+    {
+      "id": 5689061,
+      "file": "environments/stars/11xp_voidsky02_5689061.blp"
+    },
+    {
+      "id": 5689062,
+      "file": "environments/stars/11xp_voidsky02_5689062.blp"
+    },
+    {
+      "id": 5689063,
+      "file": "environments/stars/11xp_voidsky02_5689063.blp"
+    },
+    {
+      "id": 5457206,
+      "file": "environments/stars/11xp_voidsky02_lod01.skin"
+    },
+    {
+      "id": 5457211,
+      "file": "environments/stars/11xp_voidsky02_lod02.skin"
+    },
+    {
+      "id": 5457216,
+      "file": "environments/stars/11xp_voidsky02_lod03.skin"
+    },
+    {
+      "id": 893731,
+      "file": "environments/stars/6sm_starmaskgradient.blp"
+    },
+    {
+      "id": 1523623,
+      "file": "environments/stars/7arg_argus_background01.blp"
+    },
+    {
+      "id": 1523625,
+      "file": "environments/stars/7arg_argus_background02.blp"
+    },
+    {
+      "id": 1524616,
+      "file": "environments/stars/7arg_argus_background03.blp"
+    },
+    {
+      "id": 1523624,
+      "file": "environments/stars/7arg_argus_cloud01.blp"
+    },
+    {
+      "id": 1671779,
+      "file": "environments/stars/7arg_argus_cloud03.blp"
+    },
+    {
+      "id": 1525580,
+      "file": "environments/stars/7arg_argus_floatingrock01.blp"
+    },
+    {
+      "id": 1674941,
+      "file": "environments/stars/7arg_argus_s1_felfire.blp"
+    },
+    {
+      "id": 1604793,
+      "file": "environments/stars/7arg_argus_s1_fog.blp"
+    },
+    {
+      "id": 1525585,
+      "file": "environments/stars/7arg_lavaburst01.blp"
+    },
+    {
+      "id": 1525586,
+      "file": "environments/stars/7arg_lavaburst01_glow.blp"
+    },
+    {
+      "id": 1627739,
+      "file": "environments/stars/7arg_lavaburst03.blp"
+    },
+    {
+      "id": 1660848,
+      "file": "environments/stars/7arg_lavaburst04.blp"
+    },
+    {
+      "id": 1525583,
+      "file": "environments/stars/7arg_lavawaterfalls.blp"
+    },
+    {
+      "id": 1602374,
+      "file": "environments/stars/7arg_s1_stars.blp"
+    },
+    {
+      "id": 1627738,
+      "file": "environments/stars/7arg_s3_lavabrust_mask01.blp"
+    },
+    {
+      "id": 1608704,
+      "file": "environments/stars/7arg_slimebubbles01.blp"
+    },
+    {
+      "id": 1569546,
+      "file": "environments/stars/7arg_watercascade_color.blp"
+    },
+    {
+      "id": 1247600,
+      "file": "environments/stars/7vs_valsharah_sky_flare_01.blp"
+    },
+    {
+      "id": 1247601,
+      "file": "environments/stars/7vs_valsharah_sky_lightrays_01.blp"
+    },
+    {
+      "id": 1348065,
+      "file": "environments/stars/7xp_astromancer_frozengalaxies01.blp"
+    },
+    {
+      "id": 1348067,
+      "file": "environments/stars/7xp_astromancer_frozennoise_01_mask.blp"
+    },
+    {
+      "id": 1518529,
+      "file": "environments/stars/7xp_fel_argusnoise02_mask.blp"
+    },
+    {
+      "id": 1251282,
+      "file": "environments/stars/7xp_fel_mardumnoise01.blp"
+    },
+    {
+      "id": 1251286,
+      "file": "environments/stars/7xp_fel_mardumnoise01_mask.blp"
+    },
+    {
+      "id": 2119747,
+      "file": "environments/stars/8des_sandstorm_clouds01_day.blp"
+    },
+    {
+      "id": 2119734,
+      "file": "environments/stars/8des_sandstorm_clouds02_day.blp"
+    },
+    {
+      "id": 2119754,
+      "file": "environments/stars/8des_sandstorm_clouds03_day.blp"
+    },
+    {
+      "id": 2119769,
+      "file": "environments/stars/8des_sandstorm_lightning01.blp"
+    },
+    {
+      "id": 2119772,
+      "file": "environments/stars/8des_sandstorm_lightning01_mod2x_layer.blp"
+    },
+    {
+      "id": 2119761,
+      "file": "environments/stars/8des_sandstorm_lightning02.blp"
+    },
+    {
+      "id": 2119763,
+      "file": "environments/stars/8des_sandstorm_lightning02_mod2x.blp"
+    },
+    {
+      "id": 2119767,
+      "file": "environments/stars/8des_sandstorm_lightning02_mod2x_layer.blp"
+    },
+    {
+      "id": 2119757,
+      "file": "environments/stars/8des_sandstorm_lightning03.blp"
+    },
+    {
+      "id": 2119759,
+      "file": "environments/stars/8des_sandstorm_lightning03_mod2x.blp"
+    },
+    {
+      "id": 2119765,
+      "file": "environments/stars/8des_sandstorm_lightning03_mod2x_layer.blp"
+    },
+    {
+      "id": 1612944,
+      "file": "environments/stars/8des_stormsky_clouds02_mod2x.blp"
+    },
+    {
+      "id": 1623969,
+      "file": "environments/stars/8des_stormsky_light01.blp"
+    },
+    {
+      "id": 1612959,
+      "file": "environments/stars/8des_stormsky_lightning01_mod2x.blp"
+    },
+    {
+      "id": 1612948,
+      "file": "environments/stars/8des_stormsky_sky01.blp"
+    },
+    {
+      "id": 5689060,
+      "file": "environments/stars/8fx_painted_cloudscroll_02.blp"
+    },
+    {
+      "id": 5733770,
+      "file": "environments/stars/8fx_painted_cloudscroll_02_5733770.blp"
+    },
+    {
+      "id": 1940599,
+      "file": "environments/stars/8kul_skybottomclouds01.blp"
+    },
+    {
+      "id": 1940593,
+      "file": "environments/stars/8kul_skyclouds01.blp"
+    },
+    {
+      "id": 1940605,
+      "file": "environments/stars/8kul_skyclouds02.blp"
+    },
+    {
+      "id": 2751321,
+      "file": "environments/stars/8nzj_sky01_4_2751321.blp"
+    },
+    {
+      "id": 3204760,
+      "file": "environments/stars/8nzo_nzothraid_nyalothasky03_3204760.blp"
+    },
+    {
+      "id": 2916319,
+      "file": "environments/stars/9cas_feralsky01_2916319.blp"
+    },
+    {
+      "id": 3163127,
+      "file": "environments/stars/9xp_icecrown_icenoise.blp"
+    },
+    {
+      "id": 3163125,
+      "file": "environments/stars/9xp_icecrown_iceshards_small.blp"
+    },
+    {
+      "id": 1247832,
+      "file": "environments/stars/brokenshore_felnetherstream03.blp"
+    },
+    {
+      "id": 1247750,
+      "file": "environments/stars/brokenshore_fel_zonecloud03.blp"
+    },
+    {
+      "id": 575260,
+      "file": "environments/stars/deathwingfightsky_cloudsmask04.blp"
+    },
+    {
+      "id": 130504,
+      "file": "environments/stars/galaxy_01.blp"
+    },
+    {
+      "id": 341555,
+      "file": "environments/stars/icecrownsnowstorm.blp"
+    },
+    {
+      "id": 235321,
+      "file": "environments/stars/icecrown_lightninga.blp"
+    },
+    {
+      "id": 341553,
+      "file": "environments/stars/icecrown_lightningb.blp"
+    },
+    {
+      "id": 406668,
+      "file": "environments/stars/maelstrom_cloudmask01.blp"
+    },
+    {
+      "id": 1065411,
+      "file": "environments/stars/netherstormstream01.blp"
+    },
+    {
+      "id": 130595,
+      "file": "environments/stars/netherstormstream02.blp"
+    },
+    {
+      "id": 235335,
+      "file": "environments/stars/nexusraid_mask03.blp"
+    },
+    {
+      "id": 130602,
+      "file": "environments/stars/nexusraid_starsa.blp"
+    },
+    {
+      "id": 996319,
+      "file": "environments/stars/shadowmoon_smallstars01.blp"
+    },
+    {
+      "id": 893733,
+      "file": "environments/stars/shadowmoon_stars02.blp"
+    },
+    {
+      "id": 1608705,
+      "file": "environments/stars/sha_clouds.blp"
+    },
+    {
+      "id": 1625423,
+      "file": "environments/stars/sha_clouds_light02.blp"
+    },
+    {
+      "id": 1323506,
+      "file": "environments/stars/suramar_sky_mod01.blp"
+    },
+    {
+      "id": 849132,
+      "file": "environments/stars/talador_clouds02_day.blp"
+    },
+    {
+      "id": 1368640,
+      "file": "environments/stars/twirlcloud.blp"
+    },
+    {
+      "id": 1607467,
+      "file": "environments/stars/t_vfx_fire01_a.blp"
+    },
+    {
+      "id": 1119973,
+      "file": "environments/stars/t_vfx_fire_anim02_128_full_desat.blp"
+    },
+    {
+      "id": 376715,
+      "file": "environments/stars/uldumsunflare.blp"
+    }
+  ]
+}
