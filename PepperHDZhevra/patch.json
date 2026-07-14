@@ -1,0 +1,27 @@
+{"version":"1",
+"files":[
+{"file":"horse3.m2","id":126320},
+{"file":"horse3_lod01.skin","id":7313838},
+{"file":"horse3_lod02.skin","id":7313840},
+{"file":"horse300.skin","id":7519799},
+{"file":"horse3_zebra.blp","id":126325},
+{"file":"horse3_brown.blp","id":126321},
+{"file":"horse3_purple.blp","id":126324},
+{"file":"horse3_white.blp","id":126323},
+{"file":"horse3_evil.blp","id":126322},
+
+{"file":"horsemultisaddle.m2","id":126560},
+{"file":"horsemultisaddle_lod01.skin","id":3290337},
+{"file":"horsemultisaddle_lod02.skin","id":3290338},
+{"file":"horsemultisaddle00.skin","id":2781899},
+{"file":"horsemultisaddle01.skin","id":2781900},
+{"file":"horse3_whitemount.blp","id":126559},
+{"file":"horse3_zebramount.blp","id":126556}
+
+
+
+
+
+
+	]
+}
