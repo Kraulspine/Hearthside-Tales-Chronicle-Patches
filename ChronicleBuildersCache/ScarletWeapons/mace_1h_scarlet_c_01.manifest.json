@@ -1,0 +1,33 @@
+{
+	"fileDataID": 7298205,
+	"textures": [
+		{
+			"fileDataID": 7323865,
+			"file": "mace_1h_scarlet_c_01_red.blp"
+		},
+		{
+			"fileDataID": 775194,
+			"file": "armorreflect4.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 7323868,
+			"file": "mace_1h_scarlet_c_0100.skin"
+		}
+	],
+	"lodSkins": [
+		{
+			"fileDataID": 7323869,
+			"file": "mace_1h_scarlet_c_01_lod01.skin"
+		},
+		{
+			"fileDataID": 7323870,
+			"file": "mace_1h_scarlet_c_01_lod02.skin"
+		},
+		{
+			"fileDataID": 7323872,
+			"file": "mace_1h_scarlet_c_01_lod03.skin"
+		}
+	]
+}

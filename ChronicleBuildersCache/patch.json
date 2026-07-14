@@ -1070,7 +1070,20 @@
 {"file": "blackscourgegear/shield_blackscourge00.skin", "id": 8016181},
 {"file": "blackscourgegear/shield_blackscourge_lod01.skin", "id": 8016182},
 {"file": "blackscourgegear/shield_blackscourge_lod02.skin", "id": 8016183},
-{"file": "blackscourgegear/shield_blackscourge_lod03.skin", "id": 8016184}
+{"file": "blackscourgegear/shield_blackscourge_lod03.skin", "id": 8016184},
+{"file": "ScarletWeapons/sword_2h_scarlet_c_01.m2", "id": 148254},
+{"file": "ScarletWeapons/sword_2h_scarlet_c_0100.skin", "id": 7319721},
+{"file": "ScarletWeapons/sword_2h_scarlet_c_01_lod01.skin", "id": 7319722},
+{"file": "ScarletWeapons/sword_2h_scarlet_c_01_lod02.skin", "id": 7319723},
+{"file": "ScarletWeapons/sword_2h_scarlet_c_01_lod03.skin", "id": 7319724},
+{"file": "ScarletWeapons/armorreflect4.blp", "id": 775194},
+{"file": "ScarletWeapons/sword_2h_scarlet_c_01_red.blp", "id": 7319718},
+{"file": "ScarletWeapons/mace_1h_scarlet_c_01.m2", "id": 146497},
+{"file": "ScarletWeapons/mace_1h_scarlet_c_0100.skin", "id": 7323868},
+{"file": "ScarletWeapons/mace_1h_scarlet_c_01_lod01.skin", "id": 7323869},
+{"file": "ScarletWeapons/mace_1h_scarlet_c_01_lod02.skin", "id": 7323870},
+{"file": "ScarletWeapons/mace_1h_scarlet_c_01_lod03.skin", "id": 7323872},
+{"file": "ScarletWeapons/mace_1h_scarlet_c_01_red.blp", "id": 7323865}
 
 
 

@@ -1,0 +1,33 @@
+{
+	"fileDataID": 7298206,
+	"textures": [
+		{
+			"fileDataID": 7319718,
+			"file": "sword_2h_scarlet_c_01_red.blp"
+		},
+		{
+			"fileDataID": 775194,
+			"file": "armorreflect4.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 7319721,
+			"file": "sword_2h_scarlet_c_0100.skin"
+		}
+	],
+	"lodSkins": [
+		{
+			"fileDataID": 7319722,
+			"file": "sword_2h_scarlet_c_01_lod01.skin"
+		},
+		{
+			"fileDataID": 7319723,
+			"file": "sword_2h_scarlet_c_01_lod02.skin"
+		},
+		{
+			"fileDataID": 7319724,
+			"file": "sword_2h_scarlet_c_01_lod03.skin"
+		}
+	]
+}

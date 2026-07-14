@@ -1,0 +1,18 @@
+{
+    "version": "1.0",
+    "files": [
+{"file": "sword_2h_scarlet_c_01.m2", "id": 148254},
+{"file": "sword_2h_scarlet_c_0100.skin", "id": 7319721},
+{"file": "sword_2h_scarlet_c_01_lod01.skin", "id": 7319722},
+{"file": "sword_2h_scarlet_c_01_lod02.skin", "id": 7319723},
+{"file": "sword_2h_scarlet_c_01_lod03.skin", "id": 7319724},
+{"file": "armorreflect4.blp", "id": 775194},
+{"file": "sword_2h_scarlet_c_01_red.blp", "id": 7319718},
+{"file": "mace_1h_scarlet_c_01.m2", "id": 146497},
+{"file": "mace_1h_scarlet_c_0100.skin", "id": 7323868},
+{"file": "mace_1h_scarlet_c_01_lod01.skin", "id": 7323869},
+{"file": "mace_1h_scarlet_c_01_lod02.skin", "id": 7323870},
+{"file": "mace_1h_scarlet_c_01_lod03.skin", "id": 7323872},
+{"file": "mace_1h_scarlet_c_01_red.blp", "id": 7323865}
+    ]
+}
