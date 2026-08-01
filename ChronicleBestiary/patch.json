@@ -1,6 +1,6 @@
 {
-	"version":"7.1.1",
-	"patch_notes":"Quilboars fixed for Epsilon July 2026",
+	"version":"7.1.5",
+	"patch_notes":"Quilboars/Ashvane/Zuljin updates",
 	"files":[
 	{"file":"rhino/model/rhino_black.m2","id":234963},
 		{"file":"rhino/model/rhino_lod00.skin","id":4059448},
